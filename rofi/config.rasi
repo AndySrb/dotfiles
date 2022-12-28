@@ -1,0 +1,11 @@
+@theme "/home/andy/.local/share/rofi/themes/rounded-orange-dark.rasi"
+
+
+window {
+    location:       center;
+    width:          480;
+    y-offset:       0;
+    border-radius:  24px;
+    
+    background-color:   @bg0;
+}
