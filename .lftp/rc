@@ -1,2 +1,0 @@
-set ftp:ssl-allow no
-set ssl:verify-certificate no

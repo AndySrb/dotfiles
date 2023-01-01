@@ -1,9 +1,9 @@
 sw_volume: 0
 audio_device_state:1:default detected output
-state: pause
-current: 0
-time: 1.854000
-random: 0
+state: play
+current: 46
+time: 120.091000
+random: 1
 repeat: 0
 single: 0
 consume: 0
@@ -11,40 +11,76 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Trening/Dark Country 5 - Devil's Gonna Come (Raphael Lake _ Royal Baggs)-wIrzOQyyy5A.mp3
-1:Trening/Empire Cast - Just A Friend ft. Biz Markie.mp3
-2:Trening/Green Day - Boulevard Of Broken Dreams (Kasum Remix)-Phe5rl2je3k.mp3
-3:Trening/If Pumped Up Kicks was an 80s song... (Synthwave Cover)-3pL1plgdPbg.mp3
-4:Trening/AC DC - Highway to Hell from Live at River Plate.mp3
-5:Trening/AC DC - If You Want Blood.mp3
-6:Trening/Dark Country 5 - Devil's Gonna Come (Raphael Lake _ Royal Baggs)-wIrzOQyyy5A.mp3
-7:Trening/David Rawlings - Cumberland Gap (Official Video)-V4c4yQXk6Ug.mp3
-8:Trening/DMX - Where The Hood At Original.mp3
-9:Trening/Dragonforce - Soldiers of the Wasteland.mp3
-10:Trening/DragonForce - Through The Fire And Flames Video.mp3
-11:Trening/Ed Sheeran - Shape of You.mp3
-12:Trening/Eminem - Lose Yourself [HD].mp3
-13:Trening/Eminem - Not Afraid.mp3
-14:Trening/Eminem - Survival (Explicit).mp3
-15:Trening/Eminem - Till I Collapse [HD].mp3
-16:Trening/Eminem - Venom.mp3
-17:Trening/Eminem ft. Rihanna - The Monster (Explicit) [Official Video].mp3
-18:Trening/Empire Cast - Just A Friend ft. Biz Markie.mp3
-19:Trening/Gnarls Barkley - Crazy (Official Video)--N4jf6rtyuw.mp3
-20:Trening/Green Day - Boulevard Of Broken Dreams (Kasum Remix)-Phe5rl2je3k.mp3
-21:Trening/If Pumped Up Kicks was an 80s song... (Synthwave Cover)-3pL1plgdPbg.mp3
-22:Trening/Imagine Dragons - Demons.mp3
-23:Trening/Imagine Dragons - Natural.mp3
-24:Trening/Imagine Dragons - Whatever It Takes.mp3
-25:Trening/Le Castle Vania - John Wick Medley.mp3
-26:Trening/OneRepublic - Counting Stars.mp3
-27:Trening/Rag'n'Bone Man - Human.mp3
-28:Trening/Ram Jam - Black Betty-I_2D8Eo15wE.mp3
-29:Trening/Scorpions - Rock You Like A Hurricane.mp3
-30:Trening/Snoop Dogg - The Next Episode.mp3
-31:Trening/Survivor - Eye Of The Tiger.mp3
-32:Trening/The Gentlemen - Cumberland Gap.mp3
-33:Trening/The Rolling Stones - Paint It Black.mp3
-34:Trening/X Ambassadors - Renegades.mp3
-35:Trening/X Gon' Give It To Ya-ChUUcW4aw2k.mp3
+0:Folk/Aca Lukas - Kuda idu ljudi kao ja.mp3
+1:Folk/Aca Lukas - Pesma od bola.mp3
+2:Folk/Amadeus - Nije svejedno.mp3
+3:Folk/Amadeus Band - Kupi me.mp3
+4:Folk/Amadeus Band - La u te.mp3
+5:Folk/AMADEUS BAND-LAZU TE OFFICIAL AUDIO.mp3
+6:Folk/Ana Bekuta - Bekrija.mp3
+7:Folk/Ana Bekuta - Imam jedan zivot.mp3
+8:Folk/Ana Bekuta - Veseljak.mp3
+9:Folk/Bane Bojanic - Nema vise druga mog.mp3
+10:Folk/Bane Bojanic - Pola Vino Pola Voda.mp3
+11:Folk/Bane Bojanic - Samo pijan mogu da prebolim.mp3
+12:Folk/Bijelo Dugme - Djurdjevdan.mp3
+13:Folk/Boban Rajovic - Lijepa zena.mp3
+14:Folk/Darko Filipovic - Ona ona.mp3
+15:Folk/Dzej i Mina - Slavija - (Tv Pink).mp3
+16:Folk/eljko Bebek - Sino sam pola Kafane popio OFICIJALNI SPOT.mp3
+17:Folk/Esad Plavi - Seherzada ... by Peki ....mp3
+18:Folk/Gibonni - Činim Pravu Stvar [Sa Tekstom].mp3
+19:Folk/Halid Beslic - Dvadesete.mp3
+20:Folk/Halid Beslic - I zanesen tom ljepotom.mp3
+21:Folk/Halid Beslic - Miljacka.mp3
+22:Folk/Aca Lukas - By Pass.mp3
+23:Folk/Halid Beslic - Zbogom noci zbogom zore.mp3
+24:Folk/Haris Dzinovic - I tebe sam sit kafano.mp3
+25:Folk/Haris Dzinovic - Mustuluk 2009.mp3
+26:Folk/Kemal Monteno & Oliver Dragojevic - Nije Htjela ( lyrics ).wmv.mp3
+27:Folk/Medeni Mesec - Eh da nisi tako lepa.mp3
+28:Folk/Medeni Mesec - Nikad nikom nisam reko.mp3
+29:Folk/Mile Ignjatovi -Na putu za ludilo.mp3
+30:Folk/Mile Kitic - Smejem se a place mi se.mp3
+31:Folk/Mile Kitic i Juzni Vetar - Ja necu ljepsu Audio 1985.mp3
+32:Folk/Mile Kitic i Juzni Vetar - Kockar Audio 1986.mp3
+33:Folk/Milos Bojanic - Oci zelene.mp3
+34:Folk/miroslav ili - luckasta si ti.mp3
+35:Folk/miroslav ili - nije ivot jedna ena.mp3
+36:Folk/Mitar Miric - Ne moze nam niko nista.mp3
+37:Folk/Natasa Djordjevic - Zaboravi broj.mp3
+38:Folk/Nesanica - Ivkova Slava Nikola Kojo.mp3
+39:Folk/Novica Zdravkovic - Navik o sam ja na nocni zivot.mp3
+40:Folk/Novica Zdravkovic - Splavovi.mp3
+41:Folk/OK Band - A U Medjuvremenu.mp3
+42:Folk/Pukni zoro by Zoran.mp3
+43:Folk/Riblja Corba - Kad Sam Bio Mlad.mp3
+44:Folk/Riblja Corba - Nemoj da ides mojom ulicom.mp3
+45:Folk/Riblja Corba Avionu slomicu ti krila.mp3
+46:Folk/Riblja corba-Kako je lepo biti glup.mp3
+47:Folk/Ritam srca - Od boga si stvorena.mp3
+48:Folk/Saban Saulic - Dodji da ostarimo zajedno.mp3
+49:Folk/Saban Saulic - Ti me varas najbolje.mp3
+50:Folk/Sasa Matic - Poklonite mi nju za rodjendan.mp3
+51:Folk/Sejo Kalac - Ala ala.mp3
+52:Folk/Sejo Kalac - Da li si me voljela ili nisi.mp3
+53:Folk/Sinan Saki - Minut Dva.mp3
+54:Folk/Sinan Saki Lepa do bola.mp3
+55:Folk/Sinan Sakic i Juzni Vetar - Ej od kad sam se rodio Audio 1987.mp3
+56:Folk/Sinan Sakic i Juzni Vetar - Reci sve zelje StudioMMI Video.mp3
+57:Folk/Sinan Sakic i Juzni Vetar - Sudbina me na put salje StudioMMI Video.mp3
+58:Folk/Sinan Sakic i Juzni Vetar - Sve je postalo pepeo i dim Official Video.mp3
+59:Folk/Stari Lav.mp3
+60:Folk/Toma Zdravkovic - Kafana je moja sudbina.mp3
+61:Folk/Tozovac prazna casa na mom stolu-lh9yUYW a.mp3
+62:Folk/Ubila me tvoja nevjera.mp3
+63:Folk/Vesna Zmijanac - Idem preko zemlje Srbije.mp3
+64:Folk/Viki Miljkovic - Volim Momke Koji Piju Rakiju.mp3
+65:Folk/Zeljko Samardzic - Ja te volim vise 9000 milja.mp3
+66:Folk/Zeljko Samardzic - Kafanska pevacica.mp3
+67:Folk/Zeljko Samardzic - Ljubavna adresa (Official Video).mp3
+68:Folk/Zeljko Samardzic - Ne daj da te rade (Official Video).mp3
+69:Folk/Zorica Brunclik - 1995.mp3
+70:Folk/Zorica Brunclik - A tebe nema.mp3
+71:Folk/Zorica Brunclik - Avlije avlije.mp3
 playlist_end

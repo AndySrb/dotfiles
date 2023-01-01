@@ -1,4 +1,4 @@
-@theme "/home/andy/.local/share/rofi/themes/rounded-orange-dark.rasi"
+@theme "/home/andy/.config/rofi/theme/rounded-orange-dark.rasi"
 
 
 window {
