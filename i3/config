@@ -72,7 +72,8 @@ for_window [class="./"] floating enable
 
 # Multiple Monitors
 
-bindsym $mod+x exec i3 focus output left #&& xdotool mousemove_relative 0 0
+#bindsym $mod+x exec i3 focus output left #&& xdotool mousemove_relative 0 0
+
 
 # change focus
 bindsym $mod+a focus left
@@ -342,7 +343,7 @@ mode "$mode_gaps_left" {
 
 
 
-gaps inner  10
+gaps inner  3
 gaps outer  0
 
 #gaps inner  15
@@ -353,7 +354,7 @@ hide_edge_borders both
 
 exec --no-startup-id exec bash $HOME/.fehbg
 
-bindsym $mod+p move workspace to output right
+bindsym $mod+p exec "i3 move workspace to output up"
 
 
 

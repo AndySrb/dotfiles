@@ -1,9 +1,9 @@
-sw_volume: 0
+sw_volume: 1
 audio_device_state:1:default detected output
-state: play
-current: 46
-time: 120.091000
-random: 1
+state: pause
+current: 914
+time: 90.466000
+random: 0
 repeat: 0
 single: 0
 consume: 0
@@ -11,76 +11,1358 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Folk/Aca Lukas - Kuda idu ljudi kao ja.mp3
-1:Folk/Aca Lukas - Pesma od bola.mp3
-2:Folk/Amadeus - Nije svejedno.mp3
-3:Folk/Amadeus Band - Kupi me.mp3
-4:Folk/Amadeus Band - La u te.mp3
-5:Folk/AMADEUS BAND-LAZU TE OFFICIAL AUDIO.mp3
-6:Folk/Ana Bekuta - Bekrija.mp3
-7:Folk/Ana Bekuta - Imam jedan zivot.mp3
-8:Folk/Ana Bekuta - Veseljak.mp3
-9:Folk/Bane Bojanic - Nema vise druga mog.mp3
-10:Folk/Bane Bojanic - Pola Vino Pola Voda.mp3
-11:Folk/Bane Bojanic - Samo pijan mogu da prebolim.mp3
-12:Folk/Bijelo Dugme - Djurdjevdan.mp3
-13:Folk/Boban Rajovic - Lijepa zena.mp3
-14:Folk/Darko Filipovic - Ona ona.mp3
-15:Folk/Dzej i Mina - Slavija - (Tv Pink).mp3
-16:Folk/eljko Bebek - Sino sam pola Kafane popio OFICIJALNI SPOT.mp3
-17:Folk/Esad Plavi - Seherzada ... by Peki ....mp3
-18:Folk/Gibonni - Činim Pravu Stvar [Sa Tekstom].mp3
-19:Folk/Halid Beslic - Dvadesete.mp3
-20:Folk/Halid Beslic - I zanesen tom ljepotom.mp3
-21:Folk/Halid Beslic - Miljacka.mp3
-22:Folk/Aca Lukas - By Pass.mp3
-23:Folk/Halid Beslic - Zbogom noci zbogom zore.mp3
-24:Folk/Haris Dzinovic - I tebe sam sit kafano.mp3
-25:Folk/Haris Dzinovic - Mustuluk 2009.mp3
-26:Folk/Kemal Monteno & Oliver Dragojevic - Nije Htjela ( lyrics ).wmv.mp3
-27:Folk/Medeni Mesec - Eh da nisi tako lepa.mp3
-28:Folk/Medeni Mesec - Nikad nikom nisam reko.mp3
-29:Folk/Mile Ignjatovi -Na putu za ludilo.mp3
-30:Folk/Mile Kitic - Smejem se a place mi se.mp3
-31:Folk/Mile Kitic i Juzni Vetar - Ja necu ljepsu Audio 1985.mp3
-32:Folk/Mile Kitic i Juzni Vetar - Kockar Audio 1986.mp3
-33:Folk/Milos Bojanic - Oci zelene.mp3
-34:Folk/miroslav ili - luckasta si ti.mp3
-35:Folk/miroslav ili - nije ivot jedna ena.mp3
-36:Folk/Mitar Miric - Ne moze nam niko nista.mp3
-37:Folk/Natasa Djordjevic - Zaboravi broj.mp3
-38:Folk/Nesanica - Ivkova Slava Nikola Kojo.mp3
-39:Folk/Novica Zdravkovic - Navik o sam ja na nocni zivot.mp3
-40:Folk/Novica Zdravkovic - Splavovi.mp3
-41:Folk/OK Band - A U Medjuvremenu.mp3
-42:Folk/Pukni zoro by Zoran.mp3
-43:Folk/Riblja Corba - Kad Sam Bio Mlad.mp3
-44:Folk/Riblja Corba - Nemoj da ides mojom ulicom.mp3
-45:Folk/Riblja Corba Avionu slomicu ti krila.mp3
-46:Folk/Riblja corba-Kako je lepo biti glup.mp3
-47:Folk/Ritam srca - Od boga si stvorena.mp3
-48:Folk/Saban Saulic - Dodji da ostarimo zajedno.mp3
-49:Folk/Saban Saulic - Ti me varas najbolje.mp3
-50:Folk/Sasa Matic - Poklonite mi nju za rodjendan.mp3
-51:Folk/Sejo Kalac - Ala ala.mp3
-52:Folk/Sejo Kalac - Da li si me voljela ili nisi.mp3
-53:Folk/Sinan Saki - Minut Dva.mp3
-54:Folk/Sinan Saki Lepa do bola.mp3
-55:Folk/Sinan Sakic i Juzni Vetar - Ej od kad sam se rodio Audio 1987.mp3
-56:Folk/Sinan Sakic i Juzni Vetar - Reci sve zelje StudioMMI Video.mp3
-57:Folk/Sinan Sakic i Juzni Vetar - Sudbina me na put salje StudioMMI Video.mp3
-58:Folk/Sinan Sakic i Juzni Vetar - Sve je postalo pepeo i dim Official Video.mp3
-59:Folk/Stari Lav.mp3
-60:Folk/Toma Zdravkovic - Kafana je moja sudbina.mp3
-61:Folk/Tozovac prazna casa na mom stolu-lh9yUYW a.mp3
-62:Folk/Ubila me tvoja nevjera.mp3
-63:Folk/Vesna Zmijanac - Idem preko zemlje Srbije.mp3
-64:Folk/Viki Miljkovic - Volim Momke Koji Piju Rakiju.mp3
-65:Folk/Zeljko Samardzic - Ja te volim vise 9000 milja.mp3
-66:Folk/Zeljko Samardzic - Kafanska pevacica.mp3
-67:Folk/Zeljko Samardzic - Ljubavna adresa (Official Video).mp3
-68:Folk/Zeljko Samardzic - Ne daj da te rade (Official Video).mp3
-69:Folk/Zorica Brunclik - 1995.mp3
-70:Folk/Zorica Brunclik - A tebe nema.mp3
-71:Folk/Zorica Brunclik - Avlije avlije.mp3
+0:VH1Hits/Foo Fighters - I'll Stick Around (Official HD Video) [X_rTTsZZ9KE].mp3
+1:VH1Hits/Luther Vandross - Endless Love (Official HD Video) [nScV1qu-MZQ].mp3
+2:VH1Hits/Aerosmith - Sweet Emotion (Official HD Video) [82cJgPXU-ik].mp3
+3:VH1Hits/Poison - Nothin' But A Good Time [_88L-CU7PD4].mp3
+4:VH1Hits/Electric Light Orchestra - Turn To Stone (1977) HD [gIOijJfrHas].mp3
+5:VH1Hits/Steve Perry - Oh Sherrie (Video) [5-WpsdC2-Cc].mp3
+6:VH1Hits/Genesis - Follow You Follow Me (Official Music Video) [hAmCmNa-NSE].mp3
+7:VH1Hits/Queen - A Kind of Magic (Official Video Remastered) [0p_1QSUsbsM].mp3
+8:VH1Hits/Bobby Brown - We're Back! [PhXhy_pcg8I].mp3
+9:VH1Hits/Soundgarden - Rusty Cage [pBZs_Py-1_0].mp3
+10:VH1Hits/Lemonheads - It's a Shame About Ray [Z6ZEB0KiH9k].mp3
+11:VH1Hits/New Order - The Perfect Kiss (Official Music Video) [x3XW6NLILqo].mp3
+12:VH1Hits/Jackson Browne - Somebody's Baby (Fast Times At Ridgemont High) (1982) [Xk2NHZukTYg].mp3
+13:VH1Hits/Ace of Base -  Don't Turn Around (Official Music Video) [B_gs4gCyGKs].mp3
+14:VH1Hits/Billy Joel - Keeping the Faith (Official Video) [ph7oZnBH05s].mp3
+15:VH1Hits/Big Country - In A Big Country [657TZDHZqj4].mp3
+16:VH1Hits/The Romantics - What I Like About You (Video) [Rqnw5IfbZOU].mp3
+17:VH1Hits/Céline Dion - My Heart Will Go On (Love Theme from 'Titanic') [EcU0qbV70rU].mp3
+18:VH1Hits/REO Speedwagon - Keep on Loving You (Video Version) [wJzNZ1c5C9c].mp3
+19:VH1Hits/Depeche Mode - Shake The Disease (Official Video) [r_0sL_SQYvw].mp3
+20:VH1Hits/Cutting Crew - (I Just) Died In Your Arms (Official Music Video) [6dOwHzCHfgA].mp3
+21:VH1Hits/Guns N' Roses - Don't Cry [zRIbf6JqkNc].mp3
+22:VH1Hits/Heart - Alone- (Live) Acoustic [vXznl5S7ZbI].mp3
+23:VH1Hits/Survivor - Eye Of The Tiger (Official HD Video) [btPJPFnesV4].mp3
+24:VH1Hits/David Bowie - Fame [Live at the Beeb] [gjte7OVHGtE].mp3
+25:VH1Hits/Madonna - Oh Father [Official Music Video] [qvVvN0QvzTk].mp3
+26:VH1Hits/Madonna - Like A Prayer (Official Video) [79fzeNUqQbQ].mp3
+27:VH1Hits/Talking Heads - Burning Down the House (Official Video) [_3eC35LoF4U].mp3
+28:VH1Hits/The Police - De Do Do Do, De Da Da Da [7v2GDbEmjGE].mp3
+29:VH1Hits/Joe Jackson - Steppin' Out [PJwt2dxx9yg].mp3
+30:VH1Hits/Tom Petty and the Heartbreakers - Walls (Circus) [OFFICIAL VIDEO] [ZfS6Nl962Qg].mp3
+31:VH1Hits/Gregory Abbott - Shake You Down [Uc8wmLul3uw].mp3
+32:VH1Hits/Jade - Don't Walk Away (1992) [wZ9HG0nGe-g].mp3
+33:VH1Hits/Loverboy - Working for the Weekend (Official Remastered HD Video) [dsgBpsNPQ50].mp3
+34:VH1Hits/Spacehog - In the Meantime (Official Music Video) [PCsGRCf8T9Y].mp3
+35:VH1Hits/Sade - Your Love Is King - Official - 1984 [k1ljpLQ1V6Y].mp3
+36:VH1Hits/French Song [1qkTO_PuZ_o].mp3
+37:VH1Hits/George Benson - Give Me The Night (Official Music Video) [FIF7wKJb2iU].mp3
+38:VH1Hits/Big Mountain - Baby I Love Your Way(1994) [IWIxA7M_-ZA].mp3
+39:VH1Hits/The Outfield - All The Love In The World [qvKJ8_7vBxs].mp3
+40:VH1Hits/The Manhattans - Shinning Star [c4vlthJImVw].mp3
+41:VH1Hits/Londonbeat - I've Been Thinking About You (Video) [dGw3w_njQ4g].mp3
+42:VH1Hits/Sandra - Maria Magdalena 1985 (HD version) [l1DIV8V_zwQ].mp3
+43:VH1Hits/James Taylor - Sweet Baby James (Live 1971) [c1I0dbTg210].mp3
+44:VH1Hits/Kenny Rogers - This Woman [sYdxlWTaAQQ].mp3
+45:VH1Hits/Ready For The World - Love You Down [r3Ui8_oqc9Q].mp3
+46:VH1Hits/Patrick Hernandez - Born to Be Alive - Official Video (Clip Officiel) [9UaJAnnipkY].mp3
+47:VH1Hits/Soho - Hippychick [ILaTgQBKRbE].mp3
+48:VH1Hits/Village People - YMCA OFFICIAL Music Video 1978 [CS9OO0S5w2k].mp3
+49:VH1Hits/Genesis - No Reply (Official Music Video) [yjpSoEOUgKE].mp3
+50:VH1Hits/Heart - What About Love？ [KE5GGMhmo-M].mp3
+51:VH1Hits/055 Prince   I Would Die 4 U [dUgHay3tdZU].mp3
+52:VH1Hits/Queen - Princes Of The Universe (Official Video) [VEJ8lpCQbyw].mp3
+53:VH1Hits/Cyndi Lauper - She Bop (Official HD Video) [KFq4E9XTueY].mp3
+54:VH1Hits/Joan Jett & the Blackhearts - I Hate Myself for Loving You (Official Video) [bpNw7jYkbVc].mp3
+55:VH1Hits/Genesis - Throwing It All Away (Official Music Video) [ALxFwkNIHd0].mp3
+56:VH1Hits/Modern Talking - You Can Win If You Want (Wetten, dass...？ 18.05.1985) [yiIKLhka0Tg].mp3
+57:VH1Hits/Prince - Little Red Corvette (Official Music Video) [v0KpfrJE4zw].mp3
+58:VH1Hits/Twisted Sister - I Wanna Rock (Official Music Video) [SRwrg0db_zY].mp3
+59:VH1Hits/Bryan Adams - Please Forgive Me [7x8wPt8xarE].mp3
+60:VH1Hits/George Michael - Father Figure (Official Video) [m_9hfHvQSNo].mp3
+61:VH1Hits/Peter Gabriel - Don't Give Up (ft. Kate Bush) [VjEq-r2agqc].mp3
+62:VH1Hits/Cher - I Found Someone (Official Music Video) [zivtxPfF5Bg].mp3
+63:VH1Hits/Red Hot Chili Peppers - Give It Away [Official Music Video] [Mr_uHJPUlO8].mp3
+64:VH1Hits/David Bowie - Heroes (Official Video) [lXgkuM2NhYI].mp3
+65:VH1Hits/Journey - Faithfully (Official Video) [OMD8hBsA-RI].mp3
+66:VH1Hits/Daryl Hall & John Oates - Say it Isn't So (Official HD Video) [_R5xIdXwNMk].mp3
+67:VH1Hits/Indigo Girls - Closer to Fine [HUgwM1Ky228].mp3
+68:VH1Hits/SWV - I'm So Into You (Official Video) [FL-pm-xRb40].mp3
+69:VH1Hits/Harold Faltermeyer - Axel F. (HD) (Official Video) (1985) (Feat. Eddie Murphey) (Beverly Hills Cop) [So70GbgBjsQ].mp3
+70:VH1Hits/Celine Dion   Because You Loved Me [O3XGynvy_V4].mp3
+71:VH1Hits/The Cars - Just What I Needed (Official Live Video) [gvy2yqUHLLg].mp3
+72:VH1Hits/Deep Blue Something - Breakfast At Tiffany's (Official Music Video) [1ClCpfeIELw].mp3
+73:VH1Hits/Robin S - Show Me Love (Official Music Video) [1993] [Ps2Jc28tQrw].mp3
+74:VH1Hits/Counting Crows - Round Here (Official Music Video) [SAe3sCIakXo].mp3
+75:VH1Hits/Blue Oyster Cult - R.U. Ready 2 Rock (Live at The Capitol Center, 1978) [S07tBOyZF7I].mp3
+76:VH1Hits/Cher - Believe [Official Music Video] [nZXRV4MezEw].mp3
+77:VH1Hits/Right Said Fred - I'm Too Sexy (Original Mix - 2006 Version) [P5mtclwloEQ].mp3
+78:VH1Hits/Evelyn ＂Champagne＂ King - Love Come Down [ASiqxSwHpQ8].mp3
+79:VH1Hits/Bee Gees - Night Fever (Official Video) [-ihs-vT9T3Q].mp3
+80:VH1Hits/A Flock Of Seagulls - Wishing (If I Had a Photograph of You) (Video) [opkzgLMH5MA].mp3
+81:VH1Hits/Rockwell - Somebody's Watching Me (Official Music Video) [7YvAYIJSSZY].mp3
+82:VH1Hits/Foreigner - Say You Will (Official Music Video) [5atiLWT4emI].mp3
+83:VH1Hits/Bryan Adams - Do I Have To Say The Words？ [otgnuwR6w8o].mp3
+84:VH1Hits/Stevie Ray Vaughan & Double Trouble - Love Struck Baby (Video) [nnbnRWHDFpw].mp3
+85:VH1Hits/David Lee Roth - Just A Gigolo ⧸ I Ain't Got Nobody (1985) (Music Video - Dave TV Version) [ui-zBq-f5XA].mp3
+86:VH1Hits/Electric Light Orchestra - Last Train to London (Official Video) [Up4WjdabA2c].mp3
+87:VH1Hits/Tom Petty And The Heartbreakers - Refugee [fFnOfpIJL0M].mp3
+88:VH1Hits/The Go-Go's - We Got The Beat [f55KlPe81Yw].mp3
+89:VH1Hits/Flashdance - Maniac Full HD [8OyRL48ADjQ].mp3
+90:VH1Hits/Elton John - Don't Go Breaking My Heart (with Kiki Dee) [z0qW9P-uYfM].mp3
+91:VH1Hits/Daryl Hall & John Oates - Kiss On My List (Official Video) [lsHld-iArOc].mp3
+92:VH1Hits/The B-52's - Roam (Official Music Video) [iNwC0sp-uA4].mp3
+93:VH1Hits/Ace of Base - Wheel of Fortune (Official Music Video) [qoybSNHMtMY].mp3
+94:VH1Hits/Bobby McFerrin - Don't Worry Be Happy (Official Music Video) [d-diB65scQU].mp3
+95:VH1Hits/Todd Rundgren - Time Heals (Official Music Video) [HVn-DMijdxY].mp3
+96:VH1Hits/Deniece Williams - Let's Hear It for the Boy [gI7YHZVc7mM].mp3
+97:VH1Hits/The Escape Club - Wild Wild West (1988) [6vE5ewvxdfo].mp3
+98:VH1Hits/Starship - We Built This City (Official Music Video) [HD] [K1b8AhIsSYQ].mp3
+99:VH1Hits/John Mellencamp - Jack & Diane [h04CH9YZcpI].mp3
+100:VH1Hits/Depeche Mode - Stripped (Official Video) [qU8UfYdKHvs].mp3
+101:VH1Hits/Chicago - You're the Inspiration (Official Music Video) [CRfy1yorkec].mp3
+102:VH1Hits/Fine Young Cannibals - She Drives Me Crazy (Official Video) [UtvmTu4zAMg].mp3
+103:VH1Hits/Eagle-Eye Cherry - Save Tonight [Nntd2fgMUYw].mp3
+104:VH1Hits/The Cure - Lovesong (Official Music Video) [hXCKLJGLENs].mp3
+105:VH1Hits/Living Colour - Cult Of Personality (Official Video) [7xxgRUyzgs0].mp3
+106:VH1Hits/Prince & The Revolution - When Doves Cry (Official Music Video) [UG3VcCAlUgE].mp3
+107:VH1Hits/Laura Branigan - Self Control (Official Music Video) [RP0_8J7uxhs].mp3
+108:VH1Hits/Dio - We Rock (Official Music Video) [KT5AvKlPWA0].mp3
+109:VH1Hits/Aldo Nova - Fantasy [vPQgfaB3S1c].mp3
+110:VH1Hits/Y&T (1985) Summertime Girls [Nh2dftlqibc].mp3
+111:VH1Hits/Poison - Something To Believe In [G5uamDMoW4o].mp3
+112:VH1Hits/REO Speedwagon - Girl With The Heart Of Gold [p8EnhkV-W_c].mp3
+113:VH1Hits/Seal - Crazy (Official Music Video) [HD] [4Fc67yQsPqQ].mp3
+114:VH1Hits/Patrice Rushen - Forget Me Nots (Official Video) [jtMHsNhQBvI].mp3
+115:VH1Hits/Fleetwood Mac - Rhiannon (Official Music VIdeo) [jQAK6sVovUk].mp3
+116:VH1Hits/Prince & The Revolution - Raspberry Beret (Official Music Video) [l7vRSu_wsNc].mp3
+117:VH1Hits/Air Supply - Making Love Out Of Nothing At All [ogoIxkPjRts].mp3
+118:VH1Hits/Peter Frampton Do You Feel Like We Do Midnight Special 1975 FULL [y7rFYbMhcG8].mp3
+119:VH1Hits/The Police - Don't Stand So Close To Me [KNIZofPB8ZM].mp3
+120:VH1Hits/Sinéad O'Connor - Nothing Compares 2 U (Official Music Video) [HD] [0-EF60neguk].mp3
+121:VH1Hits/Duncan Sheik - Barely Breathing (Official Video) [A-oh-tP6RvA].mp3
+122:VH1Hits/Billy Joel - We Didn't Start the Fire (Official Video) [eFTLKWw542g].mp3
+123:VH1Hits/Annie Lennox - Walking on Broken Glass (Official Video) [y25stK5ymlA].mp3
+124:VH1Hits/Alanis Morissette - Ironic (Official 4K Music Video) [Jne9t8sHpUc].mp3
+125:VH1Hits/Fleetwood Mac - Everywhere (Official Music Video) [YF1R0hc5Q2I].mp3
+126:VH1Hits/Ray Parker Jr. - Ghostbusters (Official Video) [Fe93CLbHjxQ].mp3
+127:VH1Hits/Men At Work - It's a Mistake (Video) [I0AxrOUJ62E].mp3
+128:VH1Hits/R.E.M. - Everybody Hurts (Official Music Video) [5rOiW_xY-kc].mp3
+129:VH1Hits/Hootie & The Blowfish - Time (Official Music Video) [oFLysouG86I].mp3
+130:VH1Hits/Madonna - Cherish (Official Video) [HD] [8q2WS6ahCnY].mp3
+131:VH1Hits/The Smashing Pumpkins - Bullet With Butterfly Wings [8-r-V0uK4u0].mp3
+132:VH1Hits/Mariah Carey - Hero (Official HD Video) [0IA3ZvCkRkQ].mp3
+133:VH1Hits/Bruce Springsteen - Human Touch (Official HD Video) [85cNRQo1m3A].mp3
+134:VH1Hits/Everything But The Girl - Missing (Official Music Video) [U56Ns66Qrb8].mp3
+135:VH1Hits/Sting - Be Still My Beating Heart [Ng4P6FWVdcE].mp3
+136:VH1Hits/Abba - Dancing Queen (Official Music Video Remastered) [xFrGuyw1V8s].mp3
+137:VH1Hits/Nirvana - About A Girl (MTV Unplugged) [AhcttcXcRYY].mp3
+138:VH1Hits/Accept - Midnight Mover [VXZQA1Wcxo0].mp3
+139:VH1Hits/Sting - We'll Be Together [KYps5LfOaGg].mp3
+140:VH1Hits/Madness - House of Fun (Official 4K Video) [GJ2X9SANsME].mp3
+141:VH1Hits/Rod Stewart - Downtown Train (Official Video) [7vPrtOFKPWY].mp3
+142:VH1Hits/Tom Petty - You Don't Know How It Feels [Official Music Video] [9TlBTPITo1I].mp3
+143:VH1Hits/RATT - I Want A Woman (Official Music Video) [RLS_W_2eyzY].mp3
+144:VH1Hits/Billy Ocean - Caribbean Queen (No More Love on the Run) (Official HD Video) [uxX2gA18grk].mp3
+145:VH1Hits/AC⧸DC - For Those About To Rock (We Salute You) (Official Video) [8fPf6L0XNvM].mp3
+146:VH1Hits/Grateful Dead - Touch Of Grey (Official Music Video) [HD] [mzvk0fWtCs0].mp3
+147:VH1Hits/Def Leppard - Hysteria (Long Version) [yMzyleT2FqY].mp3
+148:VH1Hits/Roxy Music - Avalon [bpA_5a0miWk].mp3
+149:VH1Hits/R.E.M. - Shiny Happy People (Official Music Video) [YYOKMUTTDdA].mp3
+150:VH1Hits/STEREO MC'S - Connected (1992) [WoESSG6iSAI].mp3
+151:VH1Hits/Bruce Springsteen - Glory Days (Official Video) [6vQpW9XRiyM].mp3
+152:VH1Hits/Book Of Love - Pretty Boys And Pretty Girls (Official Music Video) [p8efAQ33fq0].mp3
+153:VH1Hits/Tears For Fears - Woman In Chains ft. Oleta Adams [QzkK3ZtI9SU].mp3
+154:VH1Hits/Van Halen   Feels So Good Official Music Video WIDESCREEN [6eb2XW0et8g].mp3
+155:VH1Hits/Faith No More - Falling to Pieces (Official Music Video) [32bdevGClD4].mp3
+156:VH1Hits/Jeremy (Live) - MTV Unplugged - Pearl Jam [3g1Tu2Ulrk0].mp3
+157:VH1Hits/Tom Petty and the Heartbreakers - Change of Heart [Official Video] [H0Zxs5TspQA].mp3
+158:VH1Hits/Kate Bush - Running Up That Hill - Official Music Video [wp43OdtAAkM].mp3
+159:VH1Hits/Stephen Bishop - It Might Be You (Tootsie) (1982) [Y9AVoIROBt0].mp3
+160:VH1Hits/Starship - Sara (Official Music Video) [HD] [32ScTb6_KHg].mp3
+161:VH1Hits/Blondie - One Way Or Another (Official Music Video) [4kg9LasvLFE].mp3
+162:VH1Hits/New Edition - Cool It Now (Official Music Video) [RZUq6N7Gx1c].mp3
+163:VH1Hits/Deep Purple - Nobody's Home [AEQr_DWQ1CQ].mp3
+164:VH1Hits/Eric Carmen - Hungry Eyes (Dirty Dancing Soundtrack) [6oKUTOLSeMM].mp3
+165:VH1Hits/Boyz II Men - On Bended Knee [jSUSFow70no].mp3
+166:VH1Hits/LL COOL J - I Need Love [NEUX-HYRtUA].mp3
+167:VH1Hits/AC⧸DC - Hells Bells (Official Video) [etAIpkdhU9Q].mp3
+168:VH1Hits/Aerosmith - What It Takes [CSnuQcFgvDo].mp3
+169:VH1Hits/Peter Gabriel - Sledgehammer (HD version) [OJWJE0x7T4Q].mp3
+170:VH1Hits/Sting - Fields Of Gold [KLVq0IAzh1A].mp3
+171:VH1Hits/Peter Gabriel - Big Time [PBAl9cchQac].mp3
+172:VH1Hits/There She Goes The La's (Fry Pan Music OnYoutube) Granada TV. [rchpHc6caeo].mp3
+173:VH1Hits/Gin Blossoms - Found Out About You (Official Music Video) [1qB6XdAkkAo].mp3
+174:VH1Hits/Queen - I Want To Break Free (Official Video) [f4Mc-NYPHaQ].mp3
+175:VH1Hits/ABC - Be Near Me [VhAgQMqVxiE].mp3
+176:VH1Hits/Rod Stewart - You're In My Heart (The Final Acclaim) [HD Remaster] (Official Video) [Hf6ng1Hsb7I].mp3
+177:VH1Hits/Bon Jovi - Livin' On A Prayer [lDK9QqIzhwk].mp3
+178:VH1Hits/Genesis - That's All (Official Music Video) [Vzyn60Zns-E].mp3
+179:VH1Hits/Billy Joel - Movin' Out (Anthony's Song) (from Old Grey Whistle Test) [7nfEYV7nWc0].mp3
+180:VH1Hits/Madonna - Crazy For You (Official Video) [DHutZXREZ0E].mp3
+181:VH1Hits/DONNA SUMMER - This Time I Know It's For Real  ⧸ ⧸ HD--16_9 ⧸ ⧸ [DCtDAAPO-j4].mp3
+182:VH1Hits/Kiss - Rock And Roll All Nite (From Kiss eXposed) [EFMD7Usflbg].mp3
+183:VH1Hits/Kool & The Gang - Get Down On It [qchPLaiKocI].mp3
+184:VH1Hits/Chris Rea - On the Beach (Official Music Video) [-yXVufG5oV0].mp3
+185:VH1Hits/The Boomtown Rats - I Don't Like Mondays (Live Aid 1985) [FcZW0GFLSdw].mp3
+186:VH1Hits/Fleetwood Mac - Dreams (Official Music Video) [Y3ywicffOj4].mp3
+187:VH1Hits/Beastie Boys - (You Gotta) Fight For Your Right (To Party) (Official Music Video) [eBShN8qT4lk].mp3
+188:VH1Hits/Oingo Boingo Dead Man's Party [iypUpv9xelg].mp3
+189:VH1Hits/House of Pain - Jump Around (Official Music Video) [XhzpxjuwZy0].mp3
+190:VH1Hits/Depeche Mode - People Are People (Official Video) [MzGnX-MbYE4].mp3
+191:VH1Hits/George Michael, Elton John - Don't Let The Sun Go Down On Me (Live) [RsKqMNDoR4o].mp3
+192:VH1Hits/Céline Dion - Nothing Broken But My Heart (Official Video) [80At3a_u8hk].mp3
+193:VH1Hits/Whitney Houston - How Will I Know (Official Video) [m3-hY-hlhBg].mp3
+194:VH1Hits/Lita Ford： Dressed to kill [wf2DQKZMSLk].mp3
+195:VH1Hits/Roxette - Spending My Time [eG0IYV6G0I0].mp3
+196:VH1Hits/The Notorious B.I.G. - Juicy (Official Video) [4K] [_JZom_gVfuw].mp3
+197:VH1Hits/Wilson Phillips - Hold On (Official Music Video) [uIbXvaE39wM].mp3
+198:VH1Hits/Meredith Brooks - Bitch (Official Music Video) [_ivt_N2Zcts].mp3
+199:VH1Hits/Falco - Rock Me Amadeus (Official Video) [cVikZ8Oe_XA].mp3
+200:VH1Hits/Michael Jackson - Bad (Shortened Version) [dsUXAEzaC3Q].mp3
+201:VH1Hits/Hootie & The Blowfish - Only Wanna Be with You (Official Music Video) [Ln6WQqRDrCo].mp3
+202:VH1Hits/Glass Tiger - Don't Forget Me (When I'm Gone) [Jx6_-urg5fo].mp3
+203:VH1Hits/Duran Duran - Girls On Film (Official Music Video) [KCjMZMxNr-0].mp3
+204:VH1Hits/Sheryl Crow - Leaving Las Vegas [Xkc-en0_LGY].mp3
+205:VH1Hits/Billy Ocean - Suddenly (Official HD Video) [vgpcEYkj0hQ].mp3
+206:VH1Hits/Air Supply - Even The Nights Are Better [BRx58DgOxeg].mp3
+207:VH1Hits/J.J. Fad - Supersonic (Official Music Video) [Ti1bFMBd6V4].mp3
+208:VH1Hits/U2 - Pride (In The Name Of Love) (Official Music Video) [LHcP4MWABGY].mp3
+209:VH1Hits/Level 42 - Lessons In Love (Extended Video) [9Ad9JlDfF_c].mp3
+210:VH1Hits/The Rolling Stones - You Can’t Always Get What You Want (Official Video) [4K] [Ef9QnZVpVd8].mp3
+211:VH1Hits/Queen - Don't Stop Me Now (Official Video) [HgzGwKwLmgM].mp3
+212:VH1Hits/Nirvana - Lithium (Official Music Video) [pkcJEvMcnEg].mp3
+213:VH1Hits/P.M. Dawn - Set Adrift On Memory Bliss [16_9 Full HD Video] [M5VoTLTdr2A].mp3
+214:VH1Hits/Boyz II Men - I'll Make Love To You (Official Music Video) [fV8vB1BB2qc].mp3
+215:VH1Hits/Technotronic - Pump Up The Jam (Official Music Video) [9EcjWd-O4jI].mp3
+216:VH1Hits/Spandau Ballet - Through the Barricades [yn7HXmzxqV8].mp3
+217:VH1Hits/Bell Biv DeVoe - Word To The Mutha! [52zkNe_bP_8].mp3
+218:VH1Hits/Wet Wet Wet - Sweet Surrender [PXxvpPVr9BQ].mp3
+219:VH1Hits/T. Rex - Get It On (1971) HD 0815007 [wZkTh_T75QY].mp3
+220:VH1Hits/The Cure - Close To Me [BjvfIJstWeg].mp3
+221:VH1Hits/Kaoma - Lambada (Official Video) 1989 HD [iyLdoQGBchQ].mp3
+222:VH1Hits/Naked Eyes - Promises, Promises (Official Music Video) [CJK6yfx9AK4].mp3
+223:VH1Hits/Bad English - When I See You Smile [cu6pclWsxzs].mp3
+224:VH1Hits/Rick Astley - Together Forever (Official Video) [Remastered in 4K] [yPYZpwSpKmA].mp3
+225:VH1Hits/Bon Jovi - Bed Of Roses (Official Music Video) [NvR60Wg9R7Q].mp3
+226:VH1Hits/The Pointer Sisters - Neutron Dance [i-jdhorGtQI].mp3
+227:VH1Hits/Richard Marx - Right Here Waiting (Official Music Video) [S_E2EHVxNAE].mp3
+228:VH1Hits/The Clash - Should I Stay or Should I Go (Official Video) [xMaE6toi4mk].mp3
+229:VH1Hits/Van Halen - Poundcake (1991) (Music Video - MTV Version) WIDESCREEN 1080p [OeDC1S0Qv58].mp3
+230:VH1Hits/Billy Joel - It's Still Rock and Roll to Me (Official Video) [5eAQa4MOGkE].mp3
+231:VH1Hits/Nazareth - Holiday 1980 Video Sound HQ [C1mJRmM7Ql4].mp3
+232:VH1Hits/DJ Jazzy Jeff & The Fresh Prince - Girls Ain't Nothing But Trouble [IOaFh-yJk_k].mp3
+233:VH1Hits/Van Halen - Unchained (Official Music Video) [ojNrj-sWfpk].mp3
+234:VH1Hits/Kim Wilde - You Keep Me Hangin' On [xJZF-skCY-M].mp3
+235:VH1Hits/Van Halen - Top Of The World (1991) (Music Video) WIDESCREEN 720p [ZBGTCQa6AHY].mp3
+236:VH1Hits/Cinderella - Coming Home [j-qG6o5N7oQ].mp3
+237:VH1Hits/Phil Collins - Sussudio (Official Music Video) [r0qBaBb1Y-U].mp3
+238:VH1Hits/The Romantics - Talking in Your Sleep [JmGMzyajA2U].mp3
+239:VH1Hits/Bauhaus - Ziggy Stardust HD [rhJZrRV5YKo].mp3
+240:VH1Hits/Carpenters - Close to You [oaOyoVS-IAI].mp3
+241:VH1Hits/John Waite - Missing You (Official Video) [k9e157Ner90].mp3
+242:VH1Hits/Guns N' Roses - It's So Easy [FMbl1ntpIXQ].mp3
+243:VH1Hits/Deep Purple - Perfect Strangers (Official Video) [gZ_kez7WVUU].mp3
+244:VH1Hits/AC⧸DC - You Shook Me All Night Long (Official Video) [Lo2qQmj0_h4].mp3
+245:VH1Hits/George Michael - Freedom! ’90 (Official Video) [diYAc7gB-0A].mp3
+246:VH1Hits/The Police - Walking On The Moon [zPwMdZOlPo8].mp3
+247:VH1Hits/Frankie Goes To Hollywood - Relax (Official Video) [Yem_iEHiyJ0].mp3
+248:VH1Hits/Bananarama - Cruel Summer (Official Video) [l9ml3nyww80].mp3
+249:VH1Hits/Sade - Paradise - Official - 1988 [C0BLKudnyNo].mp3
+250:VH1Hits/Loverboy - Turn Me Loose (Video) [TnHm4ro_l8s].mp3
+251:VH1Hits/U2 - Mysterious Ways (Official Music Video) [TxcDTUMLQJI].mp3
+252:VH1Hits/Bee Gees - Stayin' Alive (Official Music Video) [fNFzfwLM72c].mp3
+253:VH1Hits/Third Eye Blind - Jumper (Official Music Video) [HD] [gRYZijLZR-Q].mp3
+254:VH1Hits/R.E.M. - Drive (Official Music Video) [-UE7tXDKIus].mp3
+255:VH1Hits/Lisa Loeb ＂Stay (I Missed You)＂ Music Video [i9HGwRbMiVY].mp3
+256:VH1Hits/Firefall - You Are The Woman (Live Nashville Now) [d6Gy8qtOq3M].mp3
+257:VH1Hits/Thompson Twins - Hold Me Now [H9694K85Xc8].mp3
+258:VH1Hits/Debbie Gibson - Electric Youth (Official Music Video) [lqAOB143KqY].mp3
+259:VH1Hits/Collective Soul - Shine (Official Video) [_m0bI82Rz_k].mp3
+260:VH1Hits/Chicago - Stay The Night (Official Music Video) [5LTWwkBNilI].mp3
+261:VH1Hits/Prince & The Revolution - Let's Go Crazy (Official Music Video) [aXJhDltzYVQ].mp3
+262:VH1Hits/Bill Medley, Jennifer Warnes - (I've Had) The Time Of My Life (Official HD Video) [4BQLE_RrTSU].mp3
+263:VH1Hits/Color Me Badd - I Wanna Sex You Up (Official Music Video) ｜ Warner Records [Oxu3pq319r0].mp3
+264:VH1Hits/Céline Dion - It's All Coming Back to Me Now (Official Extended Remastered HD Video) [j8fHNdrZTSI].mp3
+265:VH1Hits/Bananarama - Venus (Official Video) [d4-1ASpdT1Y].mp3
+266:VH1Hits/Blind Melon - No Rain [3qVPNONdF58].mp3
+267:VH1Hits/Atlantic Starr - Secret Lovers [Oe2UXqFo0DY].mp3
+268:VH1Hits/Whitney Houston - Greatest Love Of All (Official 4K Video) [IYzlVDlE72w].mp3
+269:VH1Hits/Mariah Carey, Boyz II Men - One Sweet Day (Official Video) [UXxRyNvTPr8].mp3
+270:VH1Hits/Foreigner - I Don't Want to Live Without You (Official Music Video) [I8yuTqvyFbY].mp3
+271:VH1Hits/Fine Young Cannibals - Good Thing (Official Video) [We_9MthGzwk].mp3
+272:VH1Hits/Lisa Lisa & Cult Jam - Head To Toe [51Iq8JmmfxY].mp3
+273:VH1Hits/Carly Simon - Coming Around Again (Official Video) [c0A7jAVDPJU].mp3
+274:VH1Hits/Goo Goo Dolls - Name [Official Music Video] [yQOBUrRaPU0].mp3
+275:VH1Hits/Kylie Minogue - The Loco-motion - Official Video [POWsFzSFLCE].mp3
+276:VH1Hits/Blondie - Heart Of Glass [WGU_4-5RaxU].mp3
+277:VH1Hits/Ozzy Osbourne   Shot In The Dark Video Oficial HD [crltUo_ZFbU].mp3
+278:VH1Hits/Van Halen - Can't Stop Lovin' You (1995) (Music Video) WIDESCREEN 1080p [5NbiG47e-AU].mp3
+279:VH1Hits/The Rolling Stones - Start Me Up - Official Promo [SGyOaCXr8Lw].mp3
+280:VH1Hits/Mary    Jane    Girls     --     In     My    House   Video   HQ [knGBDWLHxI8].mp3
+281:VH1Hits/Lemonheads - Mrs Robinson [zvMFm5nKeUc].mp3
+282:VH1Hits/Pink Floyd - Not Now John (Official Music Video) [ajvk1CFIM1M].mp3
+283:VH1Hits/LL COOL J - Going Back To Cali (Official Music Video) [FdizL4on-Rc].mp3
+284:VH1Hits/Will to Power - Baby I Love Your Way [79r_XaUU7yE].mp3
+285:VH1Hits/Lita Ford - Falling in and out of Love [1z-cwfHxl0g].mp3
+286:VH1Hits/Del Amitri - Roll To Me (Official Music Video HD) Mysta Cyric [K_s44LilaYM].mp3
+287:VH1Hits/Pet Shop Boys - Always On My Mind [wDe60CbIagg].mp3
+288:VH1Hits/Green Day - Basket Case [Official Music Video] [NUTGr5t3MoY].mp3
+289:VH1Hits/Steve Miller Band - Abracadabra [tY8B0uQpwZs].mp3
+290:VH1Hits/Robert Palmer - Addicted To Love (Official Music Video) [XcATvu5f9vE].mp3
+291:VH1Hits/Rick James - Super Freak (Official Music Video) [QYHxGBH6o4M].mp3
+292:VH1Hits/Cliff Richard - From A Distance (Official Video) [Z2RC8uLTwWE].mp3
+293:VH1Hits/Phil Collins - One More Night (Official Music Video) [zKVq-P3z5Vg].mp3
+294:VH1Hits/Def Leppard - Love Bites [W4XiSFyYRE8].mp3
+295:VH1Hits/Boyz II Men - Water Runs Dry [9N9opF-PK5k].mp3
+296:VH1Hits/The Plimsouls - A Million Miles Away [aIxgBMNhsKU].mp3
+297:VH1Hits/Bob Seger & The Silver Bullet Band - Night Moves (Official Video) [xH7cSSKnkL4].mp3
+298:VH1Hits/Spin Doctors - Little Miss Can't Be Wrong [cXWbMu4PtpE].mp3
+299:VH1Hits/Boy Meets Girl - Waiting for a Star to Fall [RhxF9Qg5mOU].mp3
+300:VH1Hits/AC⧸DC - High Voltage (Official Video) [Nnjh-zp6pP4].mp3
+301:VH1Hits/Art Garfunkel - A Heart in New York [V9qNjCgC49E].mp3
+302:VH1Hits/GEORGIA SATELLITES - Keep Your Hands To Yourself [PdpAop7gp0w].mp3
+303:VH1Hits/Olivia Newton-John - Physical (Official Music Video) [vWz9VN40nCA].mp3
+304:VH1Hits/Goo Goo Dolls - Iris [Official Music Video] [NdYWuo9OFAw].mp3
+305:VH1Hits/Bon Jovi - You Give Love A Bad Name (Official Music Video) [KrZHPOeOxQQ].mp3
+306:VH1Hits/Billy Joel - Only The Good Die Young (from Old Grey Whistle Test) [46n1WSuaxOs].mp3
+307:VH1Hits/Europe - Superstitious [5gU5Vg2JokU].mp3
+308:VH1Hits/Metallica： Nothing Else Matters (Official Music Video) [tAGnKpE4NCI].mp3
+309:VH1Hits/Duran Duran - Come Undone (Official Music Video) [Epj84QVw2rc].mp3
+310:VH1Hits/Hello by Lionel Richie [b_ILDFp5DGA].mp3
+311:VH1Hits/Van Halen - When It's Love (HQ) [OZGXRCI-JzQ].mp3
+312:VH1Hits/REO Speedwagon - Roll with the Changes (Color Version) [jeHkaSH0Xw8].mp3
+313:VH1Hits/America - You Can Do Magic (Official Music Video) [tt4cR9szMS8].mp3
+314:VH1Hits/Aerosmith - Eat The Rich (Official Music Video) [o-0lAhnoDlU].mp3
+315:VH1Hits/The Bangles - Be With You (Official Video) [1VAe_gCBDmI].mp3
+316:VH1Hits/The Rolling Stones - Shattered - 1978 [5IvxpNTNmzs].mp3
+317:VH1Hits/Whitney Houston - One Moment In Time (Official HD Video) [96aAx0kxVSA].mp3
+318:VH1Hits/Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video) [qeMFqkcPYcg].mp3
+319:VH1Hits/Technotronic   Move This Video [8athUn3Tl7Y].mp3
+320:VH1Hits/Genesis - Misunderstanding (Official Music Video) [C_L-S-0Gc4I].mp3
+321:VH1Hits/Billy Joel - Uptown Girl (Official Video) [hCuMWrfXG4E].mp3
+322:VH1Hits/The Doobie Brothers - Black Water (Official Music Video) [m4oZCtfmh44].mp3
+323:VH1Hits/a-ha - Stay On These Roads (Official Video) [nWey1DBAchM].mp3
+324:VH1Hits/Poison - Talk Dirty To Me [xCChxBSRo1Y].mp3
+325:VH1Hits/Bon Jovi - Wanted Dead Or Alive (Official Music Video) [SRvCvsRp5ho].mp3
+326:VH1Hits/Quarterflash - Harden My Heart [OqeKV2UYq1Q].mp3
+327:VH1Hits/Pantera - Mouth For War (Official Music Video) [4K] [a3JSbOt7CLo].mp3
+328:VH1Hits/Amy Grant - Good For Me (Official Music Video) [5PddJStucKQ].mp3
+329:VH1Hits/Dave Matthews Band - Ants Marching [MNgJBIx-hK8].mp3
+330:VH1Hits/Nelson - After the Rain [dFLggqjddKM].mp3
+331:VH1Hits/Pearl Jam-Black [AFVlJAi3Cso].mp3
+332:VH1Hits/Styx - Too Much Time On My Hands [5XcKBmdfpWs].mp3
+333:VH1Hits/Heavy D & The Boyz - Somebody For Me [I2fS9XtWemY].mp3
+334:VH1Hits/The Police - Wrapped Around Your Finger [svWINSRhQU0].mp3
+335:VH1Hits/New Order - Temptation (Official Music Video) [HD Upgrade] [xxDv_RTdLQo].mp3
+336:VH1Hits/Cinderella - Nobody's Fool [MCOrtJMQmVs].mp3
+337:VH1Hits/Rush - Limelight [ZiRuj2_czzw].mp3
+338:VH1Hits/Savage Garden - I Want You [HQt6jIKNwgU].mp3
+339:VH1Hits/Bruce Springsteen - 57 Channels (And Nothin' On) (Official HD Video) [YAlDbP4tdqc].mp3
+340:VH1Hits/Prince - 1999 (Official Music Video) [rblt2EtFfC4].mp3
+341:VH1Hits/The Cranberries - Linger [G6Kspj3OO0s].mp3
+342:VH1Hits/Kix - Don't Close Your Eyes (Official Music Video) [DeM3CmMA9K0].mp3
+343:VH1Hits/Rick James - Give It To Me Baby [1dNIQVYGXbM].mp3
+344:VH1Hits/Megadeth - Peace Sells [rdEupVsL07E].mp3
+345:VH1Hits/Aerosmith - Janie's Got A Gun [RqQn2ADZE1A].mp3
+346:VH1Hits/Cheap Trick - Say Goodbye [oOAl2TKBA0w].mp3
+347:VH1Hits/Pearl Jam - Daughter (Official Video) [zgUwd2Gkb-E].mp3
+348:VH1Hits/U2 - Where The Streets Have No Name (Official Music Video) [GzZWSrr5wFI].mp3
+349:VH1Hits/Dionne Farris - I Know [fqng9NDqKB8].mp3
+350:VH1Hits/Steve Winwood - Higher Love (Official Music Video) [k9olaIio3l8].mp3
+351:VH1Hits/Bruce Springsteen - Born in the U.S.A. (Official Video) [EPhWR4d3FJQ].mp3
+352:VH1Hits/ABC - The Night You Murdered Love [dra8WN-JCIE].mp3
+353:VH1Hits/Men At Work - Who Can It Be Now？ (Video Version) [SECVGN4Bsgg].mp3
+354:VH1Hits/Rush - Freewill ( Music Video HQ ) [5Cgm9ZoXdrA].mp3
+355:VH1Hits/Dio - Mystery (Official Music Video) [yO6u_avs6hI].mp3
+356:VH1Hits/Alice Cooper - Freedom [mL1kQQbhmY8].mp3
+357:VH1Hits/Ramones - Something To Believe In (Official Music Video) [Whz_VoCS858].mp3
+358:VH1Hits/Metallica： Whiplash (Live - San Diego '92) [Live Shit： Binge & Purge] [oJhR7nex47w].mp3
+359:VH1Hits/Bronski Beat - Smalltown Boy (Official Video) [88sARuFu-tc].mp3
+360:VH1Hits/Information Society - What's on Your Mind (Pure Energy) [Official Music Video] [HD] [ijAYN9zVnwg].mp3
+361:VH1Hits/Shanice - I Love Your Smile (Official Video 1991) [Z9GSMei0NAw].mp3
+362:VH1Hits/Duran Duran - Is There Something I Should Know？ (Official Music Video) [3M0hogZyRyU].mp3
+363:VH1Hits/John Fogerty - The Old Man Down the Road HQ (official video) [4cwS_db9DtY].mp3
+364:VH1Hits/John Mellencamp - Key West Intermezzo (I Saw You First) [RlMPYwGWLcI].mp3
+365:VH1Hits/Diana Ross - Eaten Alive [aYkhWgdYtjk].mp3
+366:VH1Hits/John Mellencamp - Lonely Ol' Night [SQMkRzWT8mo].mp3
+367:VH1Hits/Bruce Springsteen - Tougher Than the Rest (Official Video) [_91hNV6vuBY].mp3
+368:VH1Hits/Ph.D - I Won't Let You Down (1981) [LwA-4dvaobs].mp3
+369:VH1Hits/April Wine - Sign Of The Gypsy Queen (Live) [EYhz1db8ZuI].mp3
+370:VH1Hits/björk ： army of me (HD) [jPeheoBa2_Y].mp3
+371:VH1Hits/Rush - Tom Sawyer [auLBLk4ibAk].mp3
+372:VH1Hits/Donna Summer - Last Dance [6cEbemMQ_OQ].mp3
+373:VH1Hits/Depeche Mode - Personal Jesus (Official Video) [u1xrNaTO1bI].mp3
+374:VH1Hits/Bonnie Tyler - Total Eclipse of the Heart (Video) [lcOxhH8N3Bo].mp3
+375:VH1Hits/Dionne Warwick - Heartbreaker [9xHQsMYosao].mp3
+376:VH1Hits/Pink Floyd - Money (Official Music Video) [-0kcet4aPpQ].mp3
+377:VH1Hits/Aerosmith - Love In An Elevator [h3Yrhv33Zb8].mp3
+378:VH1Hits/Berlin - Take My Breath Away (Official Video - Top Gun) [Bx51eegLTY8].mp3
+379:VH1Hits/Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED] [p3j2NYZ8FKs].mp3
+380:VH1Hits/General Public - I'll Take You There (Video) [m0N_Q0JqH80].mp3
+381:VH1Hits/Samantha Fox - Touch Me (I Want Your Body) [W1btg3mpEOc].mp3
+382:VH1Hits/Aerosmith - Dude (Looks Like A Lady) (Official Music Video) [nf0oXY4nDxE].mp3
+383:VH1Hits/Alanis Morissette - You Oughta Know (Official 4K Music Video) [NPcyTyilmYY].mp3
+384:VH1Hits/Linda Ronstadt - It's So Easy (Official Music Video) [__627t2bzJM].mp3
+385:VH1Hits/Madonna - True Blue (Official Video) [P51LunEV3Sk].mp3
+386:VH1Hits/Tina Turner - What's Love Got To Do With It (Official Music Video) [oGpFcHTxjZs].mp3
+387:VH1Hits/Madonna - Borderline (Official Video) [rSaC-YbSDpo].mp3
+388:VH1Hits/Genesis - Invisible Touch (Official Music Video) [jpmiZ7zsHXY].mp3
+389:VH1Hits/13. heart - magic man (beat club) [oYVYItAw-eM].mp3
+390:VH1Hits/W.A.S.P. - Wild Child [TsoLb-E7oy8].mp3
+391:VH1Hits/John Mellencamp - Wild Night ft. Me'Shell Ndegeocello [1nPPRQeTxTY].mp3
+392:VH1Hits/Genesis - Tonight, Tonight, Tonight (Official Music Video) [E3xbLcTj_bs].mp3
+393:VH1Hits/Dr Hook -  ＂Sharing The Night Together＂ (1978) [b_n_NgGWpR4].mp3
+394:VH1Hits/Five Star - Can't Wait Another Minute (Video) [Sng4JWYn-o8].mp3
+395:VH1Hits/Fleetwood Mac - Landslide (Official Music Video) [HD] [WM7-PYtXtJM].mp3
+396:VH1Hits/Peter Gabriel - In Your Eyes (Secret World Live) [evN6DIGPIJM].mp3
+397:VH1Hits/Dokken - Alone Again (Official Music Video) [PHgY53QXTyA].mp3
+398:VH1Hits/Faster Pussycat - House Of Pain (Official Video) [eunWuKxfAC8].mp3
+399:VH1Hits/Tom Petty And The Heartbreakers - Don't Do Me Like That (Live) [XbMsdCMC_N0].mp3
+400:VH1Hits/Naked Eyes - What In The Name Of Love (Official Music Video) [RLgHgjBfSlU].mp3
+401:VH1Hits/Don't Fear the Reaper - Blue Oyster Cult [8GAylAoRR2A].mp3
+402:VH1Hits/Iron Maiden - The Trooper (Official Video) [X4bgXH3sJ2Q].mp3
+403:VH1Hits/Van Halen - Runaround (1991) (Music Video) WIDESCREEN 720p [QXKxvV5XvVs].mp3
+404:VH1Hits/The Power Station - Get It On (Bang A Gong) (Official Music Video) [O2vHbXI2p4k].mp3
+405:VH1Hits/Van Halen - Jump (Official Music Video) [SwYN7mTi6HM].mp3
+406:VH1Hits/Jermaine Stewart - We Don't Have To Take Our Clothes Off (Official Music Video) [HWZisnZ-RGE].mp3
+407:VH1Hits/The Jeff Healey Band - Angel Eyes [kag0TsZzxpw].mp3
+408:VH1Hits/Cheap Trick - Don't Be Cruel (Video) [e-oYFEXScEU].mp3
+409:VH1Hits/James - Laid (Version 3) [0trh9Y598fM].mp3
+410:VH1Hits/Eric Clapton - Layla (1972) [DzdbAD-3a9c].mp3
+411:VH1Hits/Jon Bon Jovi - Midnight In Chelsea [gBxVzDlBVkI].mp3
+412:VH1Hits/Alphaville - Forever Young (Official Music Video) [oNjQXmoxiQ8].mp3
+413:VH1Hits/Icehouse - Hey Little Girl [YZQWTnrJMS0].mp3
+414:VH1Hits/Loverboy - When It's Over (Official Video) [nMLHPnxkOwA].mp3
+415:VH1Hits/Van Halen - You Really Got Me (Official Music Video) [9X6e7uctAww].mp3
+416:VH1Hits/Wham! - Club Tropicana (Official Video) [WYX0sjP6Za8].mp3
+417:VH1Hits/Duran Duran - Hungry like the Wolf (Official Music Video) [oJL-lCzEXgI].mp3
+418:VH1Hits/Tom Tom Club - Genius Of Love (Official Music Video) [4K] [aCWCF19nUhA].mp3
+419:VH1Hits/Sunday Bloody Sunday (Live From Red Rocks Amphitheatre, Colorado, USA ⧸ 1983 ⧸ Remaste... [EM4vblG6BVQ].mp3
+420:VH1Hits/Led Zeppelin - Immigrant Song (Live 1972) (Official Video) [RlNhD0oS5pk].mp3
+421:VH1Hits/The Muppet Show Opening and Closing Theme 1976 - 1981 (With Snippets) [hEinCgoA48E].mp3
+422:VH1Hits/Michael Jackson - The Way You Make Me Feel (Official Video) [HzZ_urpj4As].mp3
+423:VH1Hits/Vengeance - Carly Simon [nNBq2_9VKMY].mp3
+424:VH1Hits/Heart - Never [zWzy5q_M5Ho].mp3
+425:VH1Hits/Twisted Sister - We're Not Gonna Take It (Official Music Video) [4xmckWVPRaI].mp3
+426:VH1Hits/Talking Heads - Road to Nowhere (Official Video) [LQiOA7euaYA].mp3
+427:VH1Hits/Julian Lennon - Stick Around [mOcxcrbkVQ4].mp3
+428:VH1Hits/Madonna - Material Girl (Official Video) [HD] [6p-lDYPR2P8].mp3
+429:VH1Hits/Led Zeppelin - Black Dog (Live at Madison Square Garden 1973) (Official Video) [6tlSx0jkuLM].mp3
+430:VH1Hits/Depeche Mode - Never Let Me Down Again (Official Video) [snILjFUkk_A].mp3
+431:VH1Hits/Jackson Browne - The Pretender (Solo Piano) (BBC TV 1994) [xowaOsutxA4].mp3
+432:VH1Hits/PAUL Mc CARTNEY ( No more lonely Nights 1984 ) HD [y3Xn9A4Negk].mp3
+433:VH1Hits/Falco - Vienna Calling (Official Video) (VOD) [MTlSjRMx5Ic].mp3
+434:VH1Hits/REO Speedwagon - Can't Fight This Feeling (Official HD Video) [zpOULjyy-n8].mp3
+435:VH1Hits/INXS - Disappear [Xvo-bfaVsg0].mp3
+436:VH1Hits/The Cure - Pictures Of You (Official Music Video) [X8UR2TFUp8w].mp3
+437:VH1Hits/Phil Collins - Against All Odds (Take A Look At Me Now) (Official Music Video) [wuvtoyVi7vY].mp3
+438:VH1Hits/Fugees - Killing Me Softly With His Song (Official Video) [oKOtzIo-uYw].mp3
+439:VH1Hits/Faith No More - Midlife Crisis (Official Music Video) [4K] [U8b88US-6ts].mp3
+440:VH1Hits/Autograph - Turn up the Radio [j8CcTYsMHYU].mp3
+441:VH1Hits/Men At Work - Down Under (Official HD Video) [XfR9iY5y94s].mp3
+442:VH1Hits/Debbie Gibson - Shake Your Love (Official Music Video) [jv1YwsbIxDw].mp3
+443:VH1Hits/Rudolph The Red-Nosed Reindeer (WJBK [CBS], 12⧸11⧸1992) [PKF0cG54xCE].mp3
+444:VH1Hits/INXS - Need You Tonight (Official Video) [w-rv2BQa2OU].mp3
+445:VH1Hits/Billy Joel - Big Shot (Official Video) [bEea624OBzM].mp3
+446:VH1Hits/Blur - Girls And Boys (Official Music Video) [WDswiT87oo8].mp3
+447:VH1Hits/Foreigner - I Want To Know What Love Is (Official Music Video) [r3Pr1_v7hsw].mp3
+448:VH1Hits/Guns N' Roses - November Rain [8SbUC-UaAxE].mp3
+449:VH1Hits/Tone Loc - Wild Thing [387ZDGSKVSg].mp3
+450:VH1Hits/Tina Turner - Private Dancer (Official Music Video) [d4QnalIHlVc].mp3
+451:VH1Hits/Ultravox - Passing Strangers [yqp8F9b5B84].mp3
+452:VH1Hits/Tom Petty - Free Fallin' [1lWJXDG2i0A].mp3
+453:VH1Hits/Alice In Chains - Them Bones (Official HD Video) [zTuD8k3JvxQ].mp3
+454:VH1Hits/Rick Astley - Cry for Help (Official Music Video) [C2xel6q0yao].mp3
+455:VH1Hits/Boston - More Than a Feeling (Official Video) [t4QK8RxCAwo].mp3
+456:VH1Hits/Cyndi Lauper - I Drove All Night (Video) [2y1TZXc5DiY].mp3
+457:VH1Hits/David Lee Roth - California Girls (1985) (Music Video - MTV Version) WIDESCREEN 1080p [-JpM7i0yaz0].mp3
+458:VH1Hits/Dokken - Breaking The Chains (Official Music Video) [kgAyiQgBL88].mp3
+459:VH1Hits/Aerosmith - Crazy (Official Music Video) [NMNgbISmF4I].mp3
+460:VH1Hits/Go West - King Of Wishful Thinking (Official Music Video) [XBZUz4C6kqk].mp3
+461:VH1Hits/The Rainmakers - Snakedance [yarIKWX0ZI4].mp3
+462:VH1Hits/Exposé - Let Me Be The One [BR4cR9CeLi0].mp3
+463:VH1Hits/Mötley Crüe - Dr. Feelgood (Official Music Video) [trGX3ET3jTQ].mp3
+464:VH1Hits/Oingo Boingo - Weird Science [EgKczdKdnKM].mp3
+465:VH1Hits/SNAP! - Ooops Up (Official Video) [O_C8-5L989k].mp3
+466:VH1Hits/Leonard Cohen - Dance Me to the End of Love (Official Video) [NGorjBVag0I].mp3
+467:VH1Hits/Echo & The Bunnymen - The Killing Moon (Official Music Video) [LWz0JC7afNQ].mp3
+468:VH1Hits/Mr. Mister - Kyrie [9NDjt4FzFWY].mp3
+469:VH1Hits/Fleetwood Mac - Tusk (Official Music Video) [ATMR5ettHz8].mp3
+470:VH1Hits/KC & The SUNSHINE BAND Shake, Shake, Shake 1976 [aqoDrWXnld0].mp3
+471:VH1Hits/Boston - Don't Look Back (Official Video) [2HuiH-0R6a0].mp3
+472:VH1Hits/Sophie B. Hawkins - Damn I Wish I Was Your Lover [Lt6r-k9Bk6o].mp3
+473:VH1Hits/U2 - Desire (Official Music Video) [z8rQ575DWD8].mp3
+474:VH1Hits/Glenn Frey - The Heat Is On (From ＂Beverly Hills Cop＂ Soundtrack) [uZD8HKVKneI].mp3
+475:VH1Hits/Rainbow - All Night Long [g2XDORONuuY].mp3
+476:VH1Hits/Electric Light Orchestra - Mr. Blue Sky (Official Video) [aQUlA8Hcv4s].mp3
+477:VH1Hits/The Cure - Lullaby [ijxk-fgcg7c].mp3
+478:VH1Hits/Kenny Loggins - Footloose (Official Video) [ltrMfT4Qz5Y].mp3
+479:VH1Hits/Elton John - Nikita [Tg-Q-Acv4qs].mp3
+480:VH1Hits/Kenny G - Songbird [QN2RnjFHmNY].mp3
+481:VH1Hits/Don Johnson - Heartbeat (Video) [5CR4lSORZ_Q].mp3
+482:VH1Hits/Madonna - Express Yourself (Official Video) [GsVcUzP_O_8].mp3
+483:VH1Hits/Tina Turner - What's Love Got To Do With It (Live) [smGG7L_JjSM].mp3
+484:VH1Hits/Eric Clapton - Tears In Heaven (Official Video) [JxPj3GAYYZ0].mp3
+485:VH1Hits/Rod Stewart - Baby Jane (Official Video) [dxl2r6GuL2w].mp3
+486:VH1Hits/Pearl Jam - Even Flow (Official Video) [CxKWTzr-k6s].mp3
+487:VH1Hits/John Mellencamp - Small Town [0CVLVaBECuc].mp3
+488:VH1Hits/Tony! Toni! Toné! - Anniversary [agp3YKLpNO8].mp3
+489:VH1Hits/Donna Lewis - I Love You Always Forever (Official Music Video) [SqdWTeXWvOg].mp3
+490:VH1Hits/Red Hot Chili Peppers - Under The Bridge [Official Music Video] [GLvohMXgcBo].mp3
+491:VH1Hits/Annie Lennox - Why (Official Music Video) [HG7I4oniOyA].mp3
+492:VH1Hits/Led Zeppelin - Kashmir (Live at Knebworth 1979) (Official Video) [hW_WLxseq0o].mp3
+493:VH1Hits/Debbie Gibson - Only in My Dreams (Official Music Video) [4T1t5OFOYDU].mp3
+494:VH1Hits/Bon Jovi - Runaway [s86K-p089R8].mp3
+495:VH1Hits/Ringo Starr - Weight Of The World - Clip - 1992 [HAjq2uxLfpY].mp3
+496:VH1Hits/John Mellencamp - Pink Houses [qOfkpu6749w].mp3
+497:VH1Hits/Van Halen - Hot For Teacher (Official Music Video) [6M4_Ommfvv0].mp3
+498:VH1Hits/Michael Jackson - Black Or White (Official Video - Shortened Version) [F2AitTPI5U0].mp3
+499:VH1Hits/Tom Petty And The Heartbreakers - Learning To Fly (Version 1) [s5BJXwNeKsQ].mp3
+500:VH1Hits/Benny Mardones - Into the Night ( Full Original Video 1980) [zWHjJt4833I].mp3
+501:VH1Hits/Billy Joel - Pressure (Official Video) [Iyv905Q2omU].mp3
+502:VH1Hits/Laura Branigan - Solitaire (Official Music Video) [8A5QjPUHJVA].mp3
+503:VH1Hits/Bryan Adams - Summer Of '69 (Official Music Video) [eFjjO_lhf9c].mp3
+504:VH1Hits/The Rolling Stones - Going To A Go-Go (Live) - OFFICIAL PROMO [PPMAuv_O750].mp3
+505:VH1Hits/The Police - Every Breath You Take (Official Video) [OMOGaugKpzs].mp3
+506:VH1Hits/Nirvana - Come As You Are (Official Music Video) [vabnZ9-ex7o].mp3
+507:VH1Hits/BOOTCAMP MTV ＂Hold On to the Night＂ [rGkZo-Cdgh0].mp3
+508:VH1Hits/Roxette - Listen To Your Heart (Official Music Video) [yCC_b5WHLX0].mp3
+509:VH1Hits/Modern Talking - You're My Heart, You're My Soul (Official Music Video) [4kHl4FoK1Ys].mp3
+510:VH1Hits/Dennis DeYoung - Desert Moon [2cFOLFtw2Ic].mp3
+511:VH1Hits/Sugar Ray -  Someday (Official Music Video) [NQSCKWfJlXs].mp3
+512:VH1Hits/Cyndi Lauper - Time After Time (Official HD Video) [VdQY7BusJNU].mp3
+513:VH1Hits/The Black Crowes - She Talks To Angels (Official Video) [H58gMiQQRm0].mp3
+514:VH1Hits/John Mellencamp - Cherry Bomb [KF0gsbQKhD8].mp3
+515:VH1Hits/The Manhattans - Shining Star (Video) ft. Gerald Alston, Blue Lovett [I_sxBUOR0Kk].mp3
+516:VH1Hits/Sananda Maitreya - Sign Your Name [dluHzQhLcME].mp3
+517:VH1Hits/John Mellencamp - Paper In Fire [myo9wXrNUP4].mp3
+518:VH1Hits/Martika - Toy Soldiers [LvdLovAaYzM].mp3
+519:VH1Hits/Beastie Boys - No Sleep Till Brooklyn (Official Music Video) [07Y0cy-nvAg].mp3
+520:VH1Hits/Oasis - Wonderwall (Official HD Remastered Video) [vU05Eksc_iM].mp3
+521:VH1Hits/The Weather Girls - It's Raining Men (Video) [l5aZJBLAu1E].mp3
+522:VH1Hits/Journey - Any Way You Want It (Official Video - 1980) [atxUuldUcfI].mp3
+523:VH1Hits/New Order - True Faith (1987) (Official Music Video) [HD REMASTERED] [mfI1S0PKJR8].mp3
+524:VH1Hits/Midnight Oil - Power and the Passion [6pKPNnk-JhE].mp3
+525:VH1Hits/Mariah Carey - Without You (Live Video Version) [Hat1Hc9SNwE].mp3
+526:VH1Hits/Alice In Chains - Rooster (Official HD Video) [uAE6Il6OTcs].mp3
+527:VH1Hits/Mariah Carey - Make It Happen (Official HD Video) [-Q6xx0JfMBI].mp3
+528:VH1Hits/Samantha Fox - I Wanna Have Some Fun [kB6b5puSpLw].mp3
+529:VH1Hits/Phil Collins - In The Air Tonight (Official Music Video) [YkADj0TPrJA].mp3
+530:VH1Hits/Lionel Richie - Dancing On The Ceiling [ovo6zwv6DX4].mp3
+531:VH1Hits/UB40 - Kingston Town [9c4KAnQpdGw].mp3
+532:VH1Hits/Kansas - Dust in the Wind (Official Video) [tH2w6Oxx0kQ].mp3
+533:VH1Hits/Kool & The Gang - Fresh [sTJ1XwGDcA4].mp3
+534:VH1Hits/Culture Beat - Mr.Vain (1993) [mXa55CQ-_Hw].mp3
+535:VH1Hits/Mr. Big - To Be With You 4K Video [L6-uJLteKek].mp3
+536:VH1Hits/Black - Wonderful Life (Official Video) [u1ZoHfJZACA].mp3
+537:VH1Hits/Garbage - Only Happy When It Rains [GpBFOJ3R0M4].mp3
+538:VH1Hits/4 Non Blondes - What's Up (Official Music Video) [6NXnxTNIWkc].mp3
+539:VH1Hits/Belinda Carlisle - Heaven Is A Place On Earth (Official HD Music Video) [j2F4INQFjEI].mp3
+540:VH1Hits/The Who - You Better You Bet (Promo Video) [wqPlb5PLBvg].mp3
+541:VH1Hits/RUSH-Half The World (video) [jhy_EjmvQ0I].mp3
+542:VH1Hits/Aerosmith - Dream On (Live - HD Video) [sZfZ8uWaOFI].mp3
+543:VH1Hits/Tom Petty And The Heartbreakers - Don't Come Around Here No More (Official Music Video) [h0JvF9vpqx8].mp3
+544:VH1Hits/Carpenters - Rainy Days And Mondays [PjFoQxjgbrs].mp3
+545:VH1Hits/Fleetwood Mac - Hold Me (Official Music Video) [E0sha1XfHxw].mp3
+546:VH1Hits/Depeche Mode - Strangelove '88 (Official Video) [MHRabky4Ajc].mp3
+547:VH1Hits/Adam Ant - Goody Two Shoes [o41A91X5pns].mp3
+548:VH1Hits/Queen - Crazy Little Thing Called Love (Official Video) [zO6D_BAuYCI].mp3
+549:VH1Hits/Eddy Grant - Electric Avenue [vtPk5IUbdH0].mp3
+550:VH1Hits/Randy Travis - Forever And Ever, Amen (Official Music Video) [sgJXbIP83A8].mp3
+551:VH1Hits/Heart - ＂Barracuda＂ (1977) [PeMvMNpvB5M].mp3
+552:VH1Hits/AC⧸DC - Touch Too Much (Official Video) [JGftIcp2SC0].mp3
+553:VH1Hits/Paul McCartney - Spies Like Us (1985) [ZruABxAV3So].mp3
+554:VH1Hits/Pretenders - Message Of Love (Official Music Video) [RlOV6ywJt7s].mp3
+555:VH1Hits/Paul Simon - The Boy In The Bubble [Uy5T6s25XK4].mp3
+556:VH1Hits/INXS - Need You Tonight (Official Music Video) [F93ywiGMDnQ].mp3
+557:VH1Hits/Gloria Estefan - Rhythm Is Gonna Get You (Official Video) [CZkjeJKBI0M].mp3
+558:VH1Hits/Falco - Jeanny (Video) [Urw-iutHw5E].mp3
+559:VH1Hits/Jennifer Rush - Ring Of Ice (Official Video) (VOD) [WJmotvvQgYA].mp3
+560:VH1Hits/George Michael - A Different Corner (Official Video) [IPWHkK-_a_A].mp3
+561:VH1Hits/Sir Mix-A-Lot - Baby Got Back (Official Music Video) [X53ZSxkQ3Ho].mp3
+562:VH1Hits/Journey - Don't Stop Believin' (Live 1981： Escape Tour - 2022 HD Remaster) [VcjzHMhBtf0].mp3
+563:VH1Hits/Billy Ocean - When the Going Gets Tough, the Tough Get Going (Official Video) [-n3sUWR4FV4].mp3
+564:VH1Hits/Curtis Stigers - I Wonder Why [VS2Hp9Ck9mQ].mp3
+565:VH1Hits/Mariah Carey - Always Be My Baby (Official Music Video) [LfRNRymrv9k].mp3
+566:VH1Hits/Peter Cetera - One Good Woman (Official Music Video) ｜ Warner Vault [ok2Jyjtm698].mp3
+567:VH1Hits/Janet Jackson - Love Will Never Do (Without You) (Official Music Video) [63zEDkg351c].mp3
+568:VH1Hits/Cher - The Shoop Shoop Song (It's In His Kiss) [Official Music Video] [yCpKQjqb8Y4].mp3
+569:VH1Hits/Elton John - Saturday Night’s Alright (For Fighting) (Central Park, NYC 1980) [NagnbRHdh-0].mp3
+570:VH1Hits/Ace -  How Long HD [Vo_GMMLULXw].mp3
+571:VH1Hits/Mariah Carey - Emotions [NrJEFrth27Q].mp3
+572:VH1Hits/Heart - Alone [1Cw1ng75KP0].mp3
+573:VH1Hits/Trans-X - Living On Video (Official Music Video) [b9xBAtCsCTQ].mp3
+574:VH1Hits/Journey - Open Arms (Official Video - 1982) [i5pUOVC50Y8].mp3
+575:VH1Hits/Peter Frampton - Lying [lVAbD7LGVLk].mp3
+576:VH1Hits/ABC - The Look Of Love [cNEdxZURTaI].mp3
+577:VH1Hits/The Hooters - And We Danced [zB1Q-PfUvN0].mp3
+578:VH1Hits/Wild Cherry - Play That Funky Music [BHcYFxU4fMo].mp3
+579:VH1Hits/Roxette - Dangerous (Official Video) [VFNRh26TPmM].mp3
+580:VH1Hits/Debbie Gibson - Foolish Beat (Official Music Video) [qf8BoWKeHow].mp3
+581:VH1Hits/John Mellencamp - Walk Tall [KjNn9_bfp6k].mp3
+582:VH1Hits/The Rolling Stones - Anybody Seen My Baby - OFFICIAL PROMO [BinwuzZVjnE].mp3
+583:VH1Hits/Even Flow (Live) - MTV Unplugged - Pearl Jam [dgJ_pIwQy6k].mp3
+584:VH1Hits/Talk Talk - It's My Life (Official Video) [cFH5JgyZK1I].mp3
+585:VH1Hits/Hot Chocolate - You sexy thing 1975 [JIN36NweL6I].mp3
+586:VH1Hits/Alanis Morissette - Head Over Feet (Official 4K Music Video) [4iuO49jbovg].mp3
+587:VH1Hits/Bee Gees - He's A Liar [-_fJqZ6jBAs].mp3
+588:VH1Hits/Danzig - Mother 93 Live [zO6nRXPzX1A].mp3
+589:VH1Hits/Foreigner - Cold As Ice (Official Music Video) [ySb1f9zWJkQ].mp3
+590:VH1Hits/Glenn Frey - You Belong To The City [8TToLgW7zuc].mp3
+591:VH1Hits/Madonna - Erotica (Official Video) [HD] [WyhdvRWEWRw].mp3
+592:VH1Hits/Lee Ritenour - Is it you [91G5wb6GNY8].mp3
+593:VH1Hits/Prince - The Most Beautiful Girl In the World (Official Video) [uFtfrd8_K9k].mp3
+594:VH1Hits/Depeche Mode - Precious (Official Video) [8yn3ViE6mhY].mp3
+595:VH1Hits/Skid Row - 18 And Life (Official Music Video) [Ghd2bkIadG4].mp3
+596:VH1Hits/Van Halen - Jamie's Cryin' (Official Music Video) [OOjm4I7LRgY].mp3
+597:VH1Hits/LL COOL J - I'm Bad [oVDfyc2lh4Q].mp3
+598:VH1Hits/Van Morrison - Moondance (Live) (from..It's Too Late to Stop Now...Film) [V3ZY7HfCPxI].mp3
+599:VH1Hits/Lenny Kravitz - Fly Away [EvuL5jyCHOw].mp3
+600:VH1Hits/U2 - Sweetest Thing (Official Music Video) [5WybiA263bw].mp3
+601:VH1Hits/Dream Theater - Pull Me Under [OFFICIAL VIDEO] [mipc-JxrhRk].mp3
+602:VH1Hits/Yazoo - Only You (Official Music Video) [a4g5MeonGYM].mp3
+603:VH1Hits/Red Hot Chili Peppers - Suck My Kiss [Official Music Video] [C6jElKMMOWM].mp3
+604:VH1Hits/Ini Kamoze - Here Comes The Hotstepper (HQ) [w0N4twV28Mw].mp3
+605:VH1Hits/Naughty By Nature - O.P.P. (Official Music Video) [HD] [7f7FuDagYLU].mp3
+606:VH1Hits/AC⧸DC - Thunderstruck (Official Video) [v2AC41dglnM].mp3
+607:VH1Hits/Scorpions - Rhythm Of Love (Official Music Video) [vFAf_29KYTs].mp3
+608:VH1Hits/Tom Petty And The Heartbreakers - I Won't Back Down (Official Music Video) [nvlTJrNJ5lA].mp3
+609:VH1Hits/Oran ＂Juice＂ Jones - The Rain [9dZW1C3neao].mp3
+610:VH1Hits/Nicki French Total Eclipse Of The Heart (Dance Version) [7EolLvBcWaA].mp3
+611:VH1Hits/David Bowie - Modern Love (Official Video) [HivQqTtiHVw].mp3
+612:VH1Hits/Led Zeppelin - Over the Hills and Far Away (Official Music Video) [o-tT62bpYlU].mp3
+613:VH1Hits/Tony! Toni! Toné! - Feels Good [Jfoxsfhi-kk].mp3
+614:VH1Hits/Earth, Wind & Fire - Let's Groove (Official HD Video) [Lrle0x_DHBM].mp3
+615:VH1Hits/IN THE NAVY---VILLAGE PEOPLE, Official Music Video (1979) HD [nmGuy0jievs].mp3
+616:VH1Hits/Whitesnake - Is This Love (Official Music Video) [GOJk0HW_hJw].mp3
+617:VH1Hits/Moving Pictures - What About Me (1982) [OzQKECQgjW8].mp3
+618:VH1Hits/Phil Collins - Something Happened On The Way To Heaven (Official Music Video) [CKrGj73OsAY].mp3
+619:VH1Hits/Atlantic Starr Always 1987 [e8pVcq_lYNw].mp3
+620:VH1Hits/Elton John - Sorry Seems To Be The Hardest Word [c3nScN89Klo].mp3
+621:VH1Hits/Madonna - Dress You Up (Official Video) [mWtpd8mS5jw].mp3
+622:VH1Hits/Tom Jones - If I Only Knew [hqDEn7uUhFc].mp3
+623:VH1Hits/AC⧸DC - Moneytalks (Official HD Video) [2lqdErI9uss].mp3
+624:VH1Hits/Morrissey - Suedehead [0AvuweztG4Q].mp3
+625:VH1Hits/Better Than Ezra - Good (Video) [Zhs0JD6XJyQ].mp3
+626:VH1Hits/Starship - Nothing's Gonna Stop Us Now (Official Music Video) [HD] [3wxyN3z9PL4].mp3
+627:VH1Hits/The Dazz Band ＂Let It Whip＂ [SE7-tWEEejU].mp3
+628:VH1Hits/Salt-N-Pepa - Let's Talk About Sex (Official Music Video) [ydrtF45-y-g].mp3
+629:VH1Hits/Savage Garden - Truly Madly Deeply [WQnAxOQxQIU].mp3
+630:VH1Hits/Nitty Gritty Dirt Band - Mr Bojangles [GyS4V1QMKJM].mp3
+631:VH1Hits/Champaign - How 'Bout Us (DVD Version) [YBUqDr14DEw].mp3
+632:VH1Hits/Kokomo - The Beach Boys HD [KNZVzIfJlY4].mp3
+633:VH1Hits/Guns N' Roses - Sweet Child O' Mine (Official Music Video) [1w7OgIMMRc4].mp3
+634:VH1Hits/Biz Markie - Just A Friend (Official Video) [9aofoBrFNdg].mp3
+635:VH1Hits/Spin Doctors - Two Princes [wsdy_rct6uo].mp3
+636:VH1Hits/Dave Matthews Band - Don't Drink The Water [psIuidkkLjI].mp3
+637:VH1Hits/INXS - New Sensation (original video) [iV-QGQVZv0k].mp3
+638:VH1Hits/Journey - I'll Be Alright Without You (Official Video - 1986) [hjOEgDppd6k].mp3
+639:VH1Hits/Milli Vanilli - Girl You Know It's True [RdSmokR0Enk].mp3
+640:VH1Hits/Wham! - Everything She Wants [C8xt5BGegj8].mp3
+641:VH1Hits/LL Cool J - Around the Way Girl [Fwgt9Dxyyv0].mp3
+642:VH1Hits/Billy Ocean - Loverboy (Official HD Video) [tyrowWnlNnQ].mp3
+643:VH1Hits/Aztec Camera - Somewhere In My Heart (Official Music Video) [2w1Q8ZkXZ1Q].mp3
+644:VH1Hits/Lisa Stansfield - Change (US Version) (Real Life Documentary) [yq6VmvwLOs8].mp3
+645:VH1Hits/Maxi Priest - Close To You (Official Video HD)(Audio HD)(Extended Mix) [mlFK2MpKnJU].mp3
+646:VH1Hits/Foreigner - Feels Like The First Time (Official Music Video) [CK6jKL2qWxo].mp3
+647:VH1Hits/Come To My Window (with lyrics) - Melissa Etheridge [Y1QIuAJoS94].mp3
+648:VH1Hits/Bee Gees - How Deep Is Your Love (Official Video) [XpqqjU7u5Yc].mp3
+649:VH1Hits/Don McLean -  American Pie [mj0LxFjgAjg].mp3
+650:VH1Hits/Rod Stewart - Have You Ever Seen The Rain (Official Video) [2oX2FSv4Rys].mp3
+651:VH1Hits/Daryl Hall & John Oates - You Make My Dreams (Official HD Video) [EErSKhC0CZs].mp3
+652:VH1Hits/Tesla - Little Suzi [WAj_WlH3J6Q].mp3
+653:VH1Hits/Scorpions - Send Me An Angel [1UUYjd2rjsE].mp3
+654:VH1Hits/Sheryl Crow - All I Wanna Do (original music video) [hgmBaE1cqD4].mp3
+655:VH1Hits/The Cure - Lovesong [ks_qOI0lzho].mp3
+656:VH1Hits/Kathie Lee, Hoda, Regis Reenact ‘Regis And Kathie Lee’ For Halloween ｜ TODAY [UdbUtZhYLBA].mp3
+657:VH1Hits/Rod Stewart - Infatuation (Official Video) Remastered Audio HD [GGKtqbmHSos].mp3
+658:VH1Hits/Extreme - More Than Words (Official Music Video) [UrIiLvg58SY].mp3
+659:VH1Hits/Simple Minds - Don't You (Forget About Me) [CdqoNKCCt7A].mp3
+660:VH1Hits/Madonna - Take A Bow (Official Video) [4K] [XDeiovnCv1o].mp3
+661:VH1Hits/Rufus & Chaka Khan - Ain't Nobody (Official Video) Remastered Audio HQ [hrWTxRgd4Wk].mp3
+662:VH1Hits/Howard Jones - What Is Love [w34vnz_LEX4].mp3
+663:VH1Hits/ZZ Top - Gimme All Your Lovin' (Official Music Video) [Ae829mFAGGE].mp3
+664:VH1Hits/Lita Ford - Kiss Me Deadly [kIt3OGra3Lo].mp3
+665:VH1Hits/Wang Chung - Everybody Have Fun Tonight [BoXu6QmxpJE].mp3
+666:VH1Hits/Madonna - Holiday [Official Music Video] [5Rswx2Z7SDw].mp3
+667:VH1Hits/Golden Earring - Twilight Zone  (Video) [wIaaBuGNwNw].mp3
+668:VH1Hits/Elton John - Crocodile Rock (Live At Madison Square Garden) [JrpI7WbJcO8].mp3
+669:VH1Hits/Michael Jackson - Rock With You (Official Video) [5X-Mrc2l1d0].mp3
+670:VH1Hits/The Pointer Sisters - I'm So Excited [8iwBM_YB1sE].mp3
+671:VH1Hits/38 Special - Caught Up In You [zg21Rkew874].mp3
+672:VH1Hits/Eric Clapton - Cocaine Live in Montreux [GmJiITwElGU].mp3
+673:VH1Hits/Rod Stewart - Young Turks (Official Video) [HD Remaster] [zQ41hqlV0Kk].mp3
+674:VH1Hits/Kool & The Gang - Celebration [3GwjfUFyY6M].mp3
+675:VH1Hits/New Kids On The Block - You Got It (The Right Stuff) [tbIEwIwYz-c].mp3
+676:VH1Hits/Cyndi Lauper - Who Let In The Rain [8uCkK0Eoudw].mp3
+677:VH1Hits/Guns N' Roses - Paradise City (Official Music Video) [Rbm6GXllBiw].mp3
+678:VH1Hits/DJ Jazzy Jeff & The Fresh Prince - Summertime [Kr0tTbTbmVA].mp3
+679:VH1Hits/The Rolling Stones - Shattered - Live At Roundhay Park, Leeds ⧸ 1982 [oNJETLKB70c].mp3
+680:VH1Hits/The Stranglers - Always The Sun (Video) [8dEySTzQ6oc].mp3
+681:VH1Hits/Rod Stewart - She Won't Dance With Me (Official Video) [EHKHjtup3Qk].mp3
+682:VH1Hits/Janet Jackson - Rhythm Nation [OAwaNWGLM0c].mp3
+683:VH1Hits/The Clash - London Calling (Official Video) [EfK-WX2pa8c].mp3
+684:VH1Hits/Crowded House - Don't Dream It's Over (Official Music Video) [J9gKyRmic20].mp3
+685:VH1Hits/Crystal Waters - 100% Pure Love [zQX2q6WCrbE].mp3
+686:VH1Hits/Winger - Headed For A Heartbreak (Official Music Video) [AIpRdbi9pYw].mp3
+687:VH1Hits/Elvis Costello & The Attractions - (What's So Funny 'Bout) Peace, Love And Understanding [Ssd3U_zicAI].mp3
+688:VH1Hits/Electric Light Orchestra - Rock n' Roll Is King (Official Video) [21VeAmPOBzI].mp3
+689:VH1Hits/Joe Public - Live and Learn [TbMKTZbUxzI].mp3
+690:VH1Hits/Madonna - Vogue (Official Video) [GuJQSAiODqI].mp3
+691:VH1Hits/Rage Against The Machine - Killing In the Name (Official HD Video) [bWXazVhlyxQ].mp3
+692:VH1Hits/Bon Jovi - In These Arms [59NoqP02ZYM].mp3
+693:VH1Hits/E.L.O (Electric Light Orchestra) All Over The World [wh3i3vWgPyk].mp3
+694:VH1Hits/The Pointer Sisters - Jump (For My Love) [uyTVyCp7xrw].mp3
+695:VH1Hits/Billy Squier - The Stroke [69fPof-ZTnU].mp3
+696:VH1Hits/Steve Winwood - While You See A Chance [0j6g_uUhH2c].mp3
+697:VH1Hits/Bruce Springsteen - Tunnel of Love (Official Video) [M4K7XZGeHTE].mp3
+698:VH1Hits/U2 - With Or Without You (Official Music Video) [ujNeHIo7oTE].mp3
+699:VH1Hits/Des'ree - You Gotta Be (Official Video) [WRUwSk9UTrA].mp3
+700:VH1Hits/Seven Mary Three - Cumbersome (Official Video) [NjNn4bbbgSw].mp3
+701:VH1Hits/Sophie B. Hawkins - As I Lay Me Down [gq-4vIIJO30].mp3
+702:VH1Hits/RUN DMC - King Of Rock (Official Video) [qXzWlPL_TKw].mp3
+703:VH1Hits/Kim Wilde - You Came (Official Music Video) [P6Agwu_5J14].mp3
+704:VH1Hits/Eighth Wonder - I'm Not Scared (Video) [J-PYqUHfTMA].mp3
+705:VH1Hits/Roxette - Joyride (Official Video) [xCorJG9mubk].mp3
+706:VH1Hits/Eurythmics, Annie Lennox, Dave Stewart - Miracle of Love (Official Video) [yOGD1WkJJok].mp3
+707:VH1Hits/Depeche Mode - Everything Counts (Official Video) [1t-gK-9EIq4].mp3
+708:VH1Hits/Fine Young Cannibals - Johnny Come Home [2H5Se-9XAVE].mp3
+709:VH1Hits/Beck - Where It's At (Official Music Video) [EPfmNxKLDG4].mp3
+710:VH1Hits/Wham! - Wake Me Up Before You Go-Go (Official Video) [pIgZ7gMze7A].mp3
+711:VH1Hits/Divinyls - I Touch Myself (Official Music Video) [wv-34w8kGPM].mp3
+712:VH1Hits/U2 - I Still Haven't Found What I'm Looking For (Official Music Video) [e3-5YC_oHjE].mp3
+713:VH1Hits/Madonna - Secret (Official Video) [HD] [EPHUZenprKc].mp3
+714:VH1Hits/The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video) [tbNlMtqrYS0].mp3
+715:VH1Hits/Dire Straits - Money For Nothing [wTP2RUD_cL0].mp3
+716:VH1Hits/CeCe Peniston - Finally (Official Music Video) [xk8mm1Qmt-Y].mp3
+717:VH1Hits/Whitney Houston - You Give Good Love (Official HD Video) [dY7PmX6Oz58].mp3
+718:VH1Hits/Metallica - Wherever I May Roam (Official Music Video) [cwPg8gJq_Kw].mp3
+719:VH1Hits/Van Halen - When It's Love (1988) (Music Video) WIDESCREEN 720p [6xSEfUTNqLk].mp3
+720:VH1Hits/TLC - What About Your Friends (Official Video) [92gHq1s6G-c].mp3
+721:VH1Hits/TLC - Waterfalls (Official HD Video) [8WEtxJ4-sh4].mp3
+722:VH1Hits/Madonna - Live To Tell (Official Video) [IzAO9A9GjgI].mp3
+723:VH1Hits/Rocky Burnette     Tired of toein' the line ( Official Music Video ) HD HQ [IK9ijYgqKx0].mp3
+724:VH1Hits/Kate Bush - Cloudbusting - Official Music Video [pllRW9wETzw].mp3
+725:VH1Hits/David Bowie - China Girl (Official Video) [_YC3sTbAPcU].mp3
+726:VH1Hits/The Buggles - Video Killed The Radio Star (Official Music Video) [W8r-tXRLazs].mp3
+727:VH1Hits/Prince - U Got The Look (Official Music Video) [_jCuroTbqBI].mp3
+728:VH1Hits/k.d. lang - Constant Craving (Official Music Video) ｜ Warner Vault [oXqPjx94YMg].mp3
+729:VH1Hits/Paul McCartney - Maybe I’m Amazed [cdDPR8GzXy8].mp3
+730:VH1Hits/Rick Astley - Never Gonna Give You Up (Official Music Video) [dQw4w9WgXcQ].mp3
+731:VH1Hits/Kim Wilde - Kids In America (Official Music Video) [UqMcevcUmqg].mp3
+732:VH1Hits/Whitney Houston - Didn't We Almost Have It All (Official Live Video) [i_4PlM85NJo].mp3
+733:VH1Hits/Toni Braxton - You're Makin' Me High (Official HD Video) [wIgOL21S98o].mp3
+734:VH1Hits/Toni Basil ＂Hey Mickey＂  Music Video [0aqLwHP4y6Q].mp3
+735:VH1Hits/STEELY DAN - Reeling in the Years  (live) [2WTh_IEyU1w].mp3
+736:VH1Hits/The Jacksons - Blame It On the Boogie (Official Video) [nqxVMLVe62U].mp3
+737:VH1Hits/Styx - Boat On The River [K9Qs8-BkiLw].mp3
+738:VH1Hits/R.E.M. - It's The End Of The World As We Know It (And I Feel Fine) [Z0GFRcFm-aY].mp3
+739:VH1Hits/Def Leppard - Armageddon It (Long Version) [hHL2Fc0XD50].mp3
+740:VH1Hits/Dire Straits - So Far Away [YIHMPc6ZCuI].mp3
+741:VH1Hits/Michael Bolton - Love Is a Wonderful Thing [H_ezMbv2sr4].mp3
+742:VH1Hits/George Benson - Nothing's Gonna Change My Love For You • TopPop [Qy7z_oiN6nQ].mp3
+743:VH1Hits/Van Halen - Right Now (1992) (Music Video) WIDESCREEN 1080p [YCcLNmOpN3A].mp3
+744:VH1Hits/Sting - All This Time [4LdUme7QZLY].mp3
+745:VH1Hits/Pearl Jam - Alive (Official Video) [qM0zINtulhM].mp3
+746:VH1Hits/Spandau Ballet - True (HD Remastered) [AR8D2yqgQ1U].mp3
+747:VH1Hits/Gloria Estefan - Don't Wanna Lose You (Official Video) [J1x1WGtePSE].mp3
+748:VH1Hits/Boston - Smokin' - 6⧸17⧸1979 - Giants Stadium (Official) [Z5_mR7fwiEc].mp3
+749:VH1Hits/Billy Ocean - Get Outta My Dreams, Get Into My Car (Official Video) [zNgcYGgtf8M].mp3
+750:VH1Hits/Fiona Apple - Criminal (Official HD Video) [FFOzayDpWoI].mp3
+751:VH1Hits/Abba - One Of Us (Official Music Video) [IIKAe8Wi0S0].mp3
+752:VH1Hits/'Til Tuesday - Voices Carry [uejh-bHa4To].mp3
+753:VH1Hits/Cyndi Lauper - Girls Just Want To Have Fun (Official Video) [PIb6AZdTr-A].mp3
+754:VH1Hits/Kiss - God Gave Rock And Roll To You (Bill & Ted's Bogus Journey) [ybmEK64OkjA].mp3
+755:VH1Hits/Pretenders - Tattooed Love Boys (Official Music Video) [yog-meAq1so].mp3
+756:VH1Hits/Ace of Base - All That She Wants (Official Music Video) [d73tiBBzvFM].mp3
+757:VH1Hits/Los Del Rio - Macarena (Bayside Boys Remix) [zWaymcVmJ-A].mp3
+758:VH1Hits/The Traveling Wilburys - End Of The Line (Official Video) [UMVjToYOjbM].mp3
+759:VH1Hits/Naughty by Nature - Hip Hop Hooray (Official Music Video) [Rz1Xn1vzOM4].mp3
+760:VH1Hits/Bee Gees - Stayin' Alive (Official Video) [I_izvAbhExY].mp3
+761:VH1Hits/Damn Yankees - High Enough (Official Music Video) [l_uh8XjgLTE].mp3
+762:VH1Hits/Michael Jackson-P.Y.T music video! [UfJ9ZBCuR5s].mp3
+763:VH1Hits/Vanessa Williams - Save The Best For Last [5EdmHSTwmWY].mp3
+764:VH1Hits/Green Day - Longview [Official Music Video] [42BBdzzgPNM].mp3
+765:VH1Hits/Tears For Fears - Shout (Official Music Video) [Ye7FKc1JQe4].mp3
+766:VH1Hits/Toad The Wet Sprocket - Walk On The Ocean (Official Video) [12bM1CqHoBY].mp3
+767:VH1Hits/Queen - We Are The Champions (Official Video) [04854XqcfCY].mp3
+768:VH1Hits/DeBarge - Rhythm Of The Night (Official Music Video) [cAQSZhazYk8].mp3
+769:VH1Hits/INXS - Don't Change (Official Music Video) [sLm3Khusq_8].mp3
+770:VH1Hits/Michael Jackson - Thriller (Official Video - Shortened Version) [4V90AmXnguw].mp3
+771:VH1Hits/Double - The Captain Of Her Heart (Official Video) [YX-Ru1XkNZc].mp3
+772:VH1Hits/Tina Turner - The Best (Official Music Video) [GC5E8ie2pdM].mp3
+773:VH1Hits/Queen - Friends Will Be Friends (Official Video) [0AIlz08fZos].mp3
+774:VH1Hits/TESTAMENT - Over The Wall (OFFICIAL MUSIC VIDEO) [V8Hr6S_uzCw].mp3
+775:VH1Hits/Alice In Chains - Man in the Box (Official Video) [TAqZb52sgpU].mp3
+776:VH1Hits/Robert Plant - 'Ship of Fools' - Official Music Video [HD REMASTERED] [GPyPT7fb0-Q].mp3
+777:VH1Hits/Neil Young - Harvest Moon [Official Music Video] [n2MtEsrcTTs].mp3
+778:VH1Hits/Soul Asylum - Runaway Train (Official HD Video) [NRtvqT_wMeY].mp3
+779:VH1Hits/Aerosmith - Angel (Official Music Video) [CBTOGVb_cQg].mp3
+780:VH1Hits/Paul Simon - You Can Call Me Al (Official Video) [uq-gYOrU8bA].mp3
+781:VH1Hits/Toto - Holyanna [G01ClDIVhDY].mp3
+782:VH1Hits/AC⧸DC - Highway to Hell (Official Video) [l482T0yNkeo].mp3
+783:VH1Hits/Split Enz - One Step Ahead - Official Video - 1980 - Remastered [2K-4CCvhYco].mp3
+784:VH1Hits/The Human League - Love Action (I Believe In Love) [1M8a8ox_QeM].mp3
+785:VH1Hits/Guns N' Roses - Yesterdays [NDOPlpH6NZM].mp3
+786:VH1Hits/Lenny Kravitz - Are You Gonna Go My Way (Official Music Video) [8LhCd1W2V0Q].mp3
+787:VH1Hits/Kiss - I Love It Loud (Official Music Video) [LMcDg2HwOnM].mp3
+788:VH1Hits/Prince & The Revolution - Kiss (Official Music Video) [H9tEvfIsDyo].mp3
+789:VH1Hits/The Clash - Train in Vain (Stand by Me) (Live at the Lewisham Odeon, 1980) [eNot47WRBFk].mp3
+790:VH1Hits/Triumph - When The Lights Go Down (Video) [b-AwlBkYBKY].mp3
+791:VH1Hits/Limahl - Never Ending Story (Official Music Video) [2WN0T-Ee3q4].mp3
+792:VH1Hits/Herbie Hancock - Rockit (Official Video) [GHhD4PD75zY].mp3
+793:VH1Hits/R.E.M. - Losing My Religion (Official Music Video) [xwtdhWltSIg].mp3
+794:VH1Hits/Whitney Houston - Exhale (Shoop Shoop) (Official HD Video) [wrTuV4Szxzo].mp3
+795:VH1Hits/Eric Carmen - Hungry Eyes (Official HD Video) [2ssCL292DQA].mp3
+796:VH1Hits/Taco - Puttin' On The Ritz  (ZDF Silvester-Tanzparty, 31.12.1983) [4OUnedMCCW0].mp3
+797:VH1Hits/Kiss - I Love It Loud (Live) [W-ziO28JVrE].mp3
+798:VH1Hits/Bee Gees - Too Much Heaven (Official Video) [nREV8bQJ1MA].mp3
+799:VH1Hits/Rainbow   Can't Happen Here [PARgfglpXQw].mp3
+800:VH1Hits/CeCe Peniston - Keep On Walkin' (Official Music Video) [dTXqJ5YL46o].mp3
+801:VH1Hits/Madonna - La Isla Bonita (Official Video) [zpzdgmqIHOQ].mp3
+802:VH1Hits/Kenny Loggins - Danger Zone (Official Video - Top Gun) [siwpn14IE7E].mp3
+803:VH1Hits/Tone-Loc ＂Funky Cold Medina＂ [WaRlPRxOqFs].mp3
+804:VH1Hits/The Church - Under The Milky Way [pWxJEIz7sSA].mp3
+805:VH1Hits/Bon Jovi - Born To Be My Baby [Ahf2B_eZUc4].mp3
+806:VH1Hits/Eddy Grant - Romancing the Stone 1984 [dUsb2GlDvSw].mp3
+807:VH1Hits/Alicia Bridges - I Love The Nightlife (1978) [umAurdHLNzU].mp3
+808:VH1Hits/REO Speedwagon   Don t Let Him Go 1981 Music Video WIDESCREEN 720p mpeg2video [0dC6Q8tBiq0].mp3
+809:VH1Hits/Poison - What I Like About You [Igj4GnkXjiA].mp3
+810:VH1Hits/The Smashing Pumpkins - 1979 (Official Music Video) [4aeETEoNfOg].mp3
+811:VH1Hits/The Clash - I Fought the Law (Official Video) [AL8chWFuM-s].mp3
+812:VH1Hits/Roxette - The Look [LlVI7ZNiFlI].mp3
+813:VH1Hits/Shoes - In My Arms Again (VH1 Classic) [J0clKUbC4Uw].mp3
+814:VH1Hits/Whitney Houston - I'm Your Baby Tonight (Official Video) [i0oRnyXxIrY].mp3
+815:VH1Hits/The Communards - So Cold The Night (Official Video) [_v41kAb3osI].mp3
+816:VH1Hits/Toto - Hold The Line (Official Video) [htgr3pvBr-I].mp3
+817:VH1Hits/Warrant - Cherry Pie [OjyZKfdwlng].mp3
+818:VH1Hits/Queen - Killer Queen (Top Of The Pops, 1974) [2ZBtPf7FOoM].mp3
+819:VH1Hits/Counting Crows - Mr. Jones (Official Music Video) [-oqAU5VxFWs].mp3
+820:VH1Hits/Erasure - Ship of Fools (Official HD Video) [ekc_aR5LyAk].mp3
+821:VH1Hits/Frankie Valli & The Four Seasons - Who Loves You (Official Music Video) [-KtYgOM62fk].mp3
+822:VH1Hits/The Police - Spirits In The Material World [BHOevX4DlGk].mp3
+823:VH1Hits/Night Ranger-Sing Me Away (Official Music Video) [koW7qhhiTWs].mp3
+824:VH1Hits/Ultravox - Vienna (Official Music Video) [xJeWySiuq1I].mp3
+825:VH1Hits/Bon Jovi - Never Say Goodbye (Official Music Video) [ifm00JEjSeo].mp3
+826:VH1Hits/RIGHT SAID FRED - DON'T TALK JUST KISS ｜ OFFICIAL MUSIC VIDEO [3Y6u1gmEGWY].mp3
+827:VH1Hits/Wire - Eardrum Buzz [j3fLn4FYWH0].mp3
+828:VH1Hits/RUN DMC - Run's House (Official Video) [0xMJZHrG_94].mp3
+829:VH1Hits/Rupert Hine - Surface Tension (1981) [E5-RiUAokyM].mp3
+830:VH1Hits/John Lennon - I'm Losing You - with Cheap Trick [BZae6fbxItI].mp3
+831:VH1Hits/Nelson - (Can't Live Without Your) Love And Affection (Official Music Video) [x1W6-ErrHls].mp3
+832:VH1Hits/Megadeth - Symphony Of Destruction [High Quality] [cgtGdwCnBYY].mp3
+833:VH1Hits/Foo Fighters - Big Me (Official HD Video) [pLdJQFTnZfA].mp3
+834:VH1Hits/Hootie & The Blowfish - Let Her Cry (Official Music Video) [1aVHLL5egRY].mp3
+835:VH1Hits/Eurythmics, Annie Lennox, Dave Stewart - Love Is a Stranger (Official Video) [o6f593X6rv8].mp3
+836:VH1Hits/Duran Duran - Rio (Official Music Video) [nTizYn3-QN0].mp3
+837:VH1Hits/Stevie Ray Vaughan & Double Trouble - Cold Shot (Video) [m2ou-WIxfLY].mp3
+838:VH1Hits/George Michael - Outside (Official Video) [gwZAYdHcDtU].mp3
+839:VH1Hits/Michael Jackson - Don’t Stop 'Til You Get Enough (Official Video) [yURRmWtbTbo].mp3
+840:VH1Hits/Little Feat - Oh, Atlanta  from ＂Skin It Back - The Rockpalast Collection＂ [CE1amt-aRxE].mp3
+841:VH1Hits/Joe Walsh - Ordinary Average Guy [mLNAkPsjAEk].mp3
+842:VH1Hits/ELO- Evil Woman (Official Video) [LBtuk4JcYTs].mp3
+843:VH1Hits/Janet Jackson - When I Think Of You [EaleKN9GQ54].mp3
+844:VH1Hits/Fleetwood Mac - Little Lies (Official Music Video) [uCGD9dT12C0].mp3
+845:VH1Hits/ZZ Top - Sharp Dressed Man (Official Music Video) [7wRHBLwpASw].mp3
+846:VH1Hits/Michael Jackson - Dirty Diana (Official Video) [yUi_S6YWjZw].mp3
+847:VH1Hits/Quarterflash - Find Another Fool [iHVsTjXpcdI].mp3
+848:VH1Hits/Blondie - Picture This [QbdCpi4qTNY].mp3
+849:VH1Hits/Metallica - One (Official Music Video) [iT6vqeL-ysI].mp3
+850:VH1Hits/RUN DMC - Walk This Way (Official HD Video) ft. Aerosmith [4B_UYYPb-Gk].mp3
+851:VH1Hits/Ben Folds Five - Brick [Wt5EHAqhR1c].mp3
+852:VH1Hits/Janet Jackson - Escapade [UFX3gQHIroU].mp3
+853:VH1Hits/Styx - Mr. Roboto (Official Video) [uc6f_2nPSX8].mp3
+854:VH1Hits/Sananda Maitreya - Wishing Well (Video) [ynIHsHYaig0].mp3
+855:VH1Hits/Warren Zevon - Run Straight Down [X7ZWu0l2Xok].mp3
+856:VH1Hits/Electric Light Orchestra - Livin' Thing (Official Video) [lvBOZCrJsAI].mp3
+857:VH1Hits/Mariah Carey - Fantasy (Official 4K Video) [qq09UkPRdFY].mp3
+858:VH1Hits/Mr. Mister - Broken Wings [nKhN1t_7PEY].mp3
+859:VH1Hits/Earth, Wind & Fire - September (Official HD Video) [Gs069dndIYk].mp3
+860:VH1Hits/Beck - Loser (Official Music Video) [YgSPaXgAdzE].mp3
+861:VH1Hits/Goo Goo Dolls - Slide [Official Music Video] [yP4qdefD2To].mp3
+862:VH1Hits/Alanis Morissette - You Learn (Official 4K Music Video) [GFW-WfuX2Dk].mp3
+863:VH1Hits/Nirvana - In Bloom (Official Music Video) [PbgKEjNBHqM].mp3
+864:VH1Hits/Donna Summer： Last dance (Official Video) [1pE01_0cCus].mp3
+865:VH1Hits/A Taste Of Honey - Boogie Oogie Oogie (1978) [hjw1aQ0M9WM].mp3
+866:VH1Hits/ZZ Top - Rough Boy (Official Music Video) [Z_4ULKpkLNc].mp3
+867:VH1Hits/Snow - Informer (Official Music Video) [TSffz_bl6zo].mp3
+868:VH1Hits/Smokie - Living Next Door to Alice (Official Video) (VOD) [Z6qnRS36EgE].mp3
+869:VH1Hits/Pretenders - Back on the Chain Gang (Official Music Video) [cMOKamtpUA8].mp3
+870:VH1Hits/The Who - Who Are You (Promo Video) [PNbBDrceCy8].mp3
+871:VH1Hits/The Cars - Good Times Roll (Official Live Video) [Zj-b3fWrY3w].mp3
+872:VH1Hits/Earth, Wind & Fire - Boogie Wonderland (Official Video) [god7hAPv8f0].mp3
+873:VH1Hits/Baltimora - Tarzan Boy [_r0n9Dv6XnY].mp3
+874:VH1Hits/U2 - One (Official Music Video) [ftjEcrrf7r0].mp3
+875:VH1Hits/Alice Cooper - Teenage Frankenstein (Official Music Video) [LzeICJjQUCo].mp3
+876:VH1Hits/Boney M. - Ma Baker (Sopot Festival 1979) [9c5yPIQ3LQI].mp3
+877:VH1Hits/DEF LEPPARD - ＂Pour Some Sugar On Me＂ (Official Music Video) [0UIB9Y4OFPs].mp3
+878:VH1Hits/Jane Child - Don't Wanna Fall In Love (Official Music Video) [zWd__w5UWVc].mp3
+879:VH1Hits/John Parr - St. Elmo's Fire (Man In Motion) (Official Music Video) [dx7vNdAb5e4].mp3
+880:VH1Hits/There Must Be An Angel (Playing With My Heart) (Remastered) [RCdneDxFRYQ].mp3
+881:VH1Hits/Who's Behind the Door？ by Zebra HD [Ofz0iJQd-xU].mp3
+882:VH1Hits/Carpenters Close To You [6inwzOooXRU].mp3
+883:VH1Hits/Eurythmics - Baby's Gonna Cry Tonight (Official Video) [JtC4PHsNCuM].mp3
+884:VH1Hits/Nada Surf – Popular (Official Video) [Remastered in HD] [hAFuD-S-e_E].mp3
+885:VH1Hits/Prince - Purple Rain (Official Video) [TvnYmWpD_T8].mp3
+886:VH1Hits/richard marx - don't mean nothin' [k8E_dkESwzg].mp3
+887:VH1Hits/The Cure - Just Like Heaven [n3nPiBai66M].mp3
+888:VH1Hits/New Kids On The Block - Cover Girl [r5d0T015ZA4].mp3
+889:VH1Hits/Loverboy - Lovin' Every Minute of It (Official Video) [bohVV_KlSHw].mp3
+890:VH1Hits/Fleetwood Mac - Go Your Own Way (Official Music Video) [ozl3L9fhKtE].mp3
+891:VH1Hits/Michael Bolton - When a Man Loves a Woman [MUuNDb-nm5M].mp3
+892:VH1Hits/Janet Jackson - Nasty (Official Music Video) [-s1fHtIVqiQ].mp3
+893:VH1Hits/Culture Club - Karma Chameleon [5MdOYG4SZjM].mp3
+894:VH1Hits/Depeche Mode - Just Can't Get Enough (Official Video) [_6FBfAQ-NDE].mp3
+895:VH1Hits/Stevie Nicks - Stand Back (Official Music Video) [gwS9BIqbffU].mp3
+896:VH1Hits/Tesla - Love Song [l2q_-xN2N54].mp3
+897:VH1Hits/Madonna - Who's That Girl (Official Video) [r0qDBYiOBrc].mp3
+898:VH1Hits/ABBA - Under Attack (Official Music Video) [rAYB46Z_osM].mp3
+899:VH1Hits/Daryl Hall & John Oates - Adult Education (Official Video) [XLYqTZKEpvs].mp3
+900:VH1Hits/Tears For Fears - Head Over Heels (Official Music Video) [CsHiG-43Fzg].mp3
+901:VH1Hits/Roxette - How Do You Do! [nx2iLOvP0rM].mp3
+902:VH1Hits/Quiet Riot - Cum On Feel The Noize (Video Version) [ZxgMGk9JPVA].mp3
+903:VH1Hits/Fly - Sugar Ray [zUtnwcv-quE].mp3
+904:VH1Hits/The Rembrandts- I'll be there for you (official video) [q-9kPks0IfE].mp3
+905:VH1Hits/Third Eye Blind - Semi-Charmed Life (Official Music Video) [HD] [beINamVRGy4].mp3
+906:VH1Hits/Laura Branigan - The Lucky One (Official Music Video) [XRg0mSg4Htg].mp3
+907:VH1Hits/AC⧸DC - T.N.T. (Live At River Plate, December 2009) [44XYEeD1A1U].mp3
+908:VH1Hits/Soft Cell Tainted Love (1981) [CCTBuOheUpE].mp3
+909:VH1Hits/Def Leppard Rock Of Ages (Remastered) [spS_XXpaTI0].mp3
+910:VH1Hits/Rednex - Cotton Eye Joe (Official Music Video) [HD] - RednexMusic com [mOYZaiDZ7BM].mp3
+911:VH1Hits/Rod Stewart - ＂Havin' A Party＂- 1994 [sihK5Rzv8iw].mp3
+912:VH1Hits/Duran Duran - A View To A Kill [Fp4CR2HcHLQ].mp3
+913:VH1Hits/Los Lobos - La Bamba (Original Videoclip) [nLAWPrCUQQ0].mp3
+914:VH1Hits/Eric Clapton & Phil Collins - Bad Love - CLIP [KrkdMkCKeZM].mp3
+915:VH1Hits/Rod Stewart - Da Ya Think I'm Sexy？ (Official Video) [HD Remaster] [Hphwfq1wLJs].mp3
+916:VH1Hits/Trick or... Treats？ ｜ Everybody Loves Raymond ｜ TV Land [DawD7V9ETYU].mp3
+917:VH1Hits/The Bangles - Walk Like an Egyptian (Official Video) [Cv6tuzHUuuk].mp3
+918:VH1Hits/Doobie Brothers - Listen To The Music • TopPop [DkytJLoxGmQ].mp3
+919:VH1Hits/CHIC - Le Freak (Official Music Video) [aXgSHL7efKg].mp3
+920:VH1Hits/The Rolling Stones - Waiting On A Friend - OFFICIAL PROMO [MKLVmBOOqVU].mp3
+921:VH1Hits/Stevie Nicks - Edge of Seventeen (Official Music Video) [UmPgMc3R8zg].mp3
+922:VH1Hits/Dave Matthews Band - Crash Into Me [k7in-9E3ImQ].mp3
+923:VH1Hits/Mariah Carey - Dreamlover (Official HD Video) [CqBtS6BIP1E].mp3
+924:VH1Hits/Kiss - Forever [d_RKO5ozLVo].mp3
+925:VH1Hits/ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) [XEjLoHdbVeE].mp3
+926:VH1Hits/Soul For Real - Candy Rain (Official Music Video) [Cx0xzO73Amo].mp3
+927:VH1Hits/Fleetwood Mac - Big Love (Official Music Video) [4hPv6EuV7dM].mp3
+928:VH1Hits/Bryan Adams - Heaven [s6TtwR2Dbjg].mp3
+929:VH1Hits/The Cars - Shake It Up (Official Music Video) [K3SA5Z-cbC8].mp3
+930:VH1Hits/Madonna - Lucky Star (Official Video) [ThHz9wlBeLU].mp3
+931:VH1Hits/Billy Joel - The Longest Time (Official Video) [a_XgQhMPeEQ].mp3
+932:VH1Hits/DAVID CASSIDY ~ ＂I THINK I LOVE YOU＂ [2r9UtIhOI8M].mp3
+933:VH1Hits/Elton John - Sad Songs (Say So Much) [X23v5_K7cXk].mp3
+934:VH1Hits/Queen - Somebody To Love (Official Video) [kijpcUv-b8M].mp3
+935:VH1Hits/Wilson Phillips - The Dream Is Still Alive (Album Version) - HD [Sl2Cyf6ffvw].mp3
+936:VH1Hits/AC⧸DC - Back In Black (Official Video) [pAgnJDJN4VA].mp3
+937:VH1Hits/Lisa Stansfield - All Around the World [JVuuatjHGnY].mp3
+938:VH1Hits/Simply Red - Fairground (Official Video) [KiRyiVgWj6g].mp3
+939:VH1Hits/Phil Collins - Two Hearts (Official Music Video) [SidxJz94Svs].mp3
+940:VH1Hits/Thomas Dolby - She Blinded Me With Science (Official Video - HD Remaster) [V83JR2IoI8k].mp3
+941:VH1Hits/Queen - Hammer To Fall (Official Video) [JU5LMG3WFBw].mp3
+942:VH1Hits/Rage Against The Machine - Bulls On Parade (Official HD Video) [3L4YrGaR8E4].mp3
+943:VH1Hits/George Michael   Calling You with Lynn Mabry. Cover to cover tour in 1991 [B_Z-_GpmPkI].mp3
+944:VH1Hits/Fleetwood Mac - Save Me (Official Music Video) [Or1VPIanDlw].mp3
+945:VH1Hits/Bow Wow Wow - I Want Candy [JoXVYSV4Xcs].mp3
+946:VH1Hits/Lionel Richie - All Night Long (All Night) [nqAvFx3NxUM].mp3
+947:VH1Hits/Split Enz - I Got You (1980) [YmQlBfxh4Us].mp3
+948:VH1Hits/Billy Ray Cyrus - Achy Breaky Heart (Official Music Video) [byQIPdHMpjc].mp3
+949:VH1Hits/Sinitta - So Macho [s7DqwRKqyMk].mp3
+950:VH1Hits/Shalamar - Dancing In the Sheets (Official Music Video) [fZmHu1t_5X0].mp3
+951:VH1Hits/Metallica： Sad But True (Official Music Video) [A8MO7fkZc5o].mp3
+952:VH1Hits/Queen – Bohemian Rhapsody (Official Video Remastered) [fJ9rUzIMcZQ].mp3
+953:VH1Hits/En Vogue - My Lovin' (You're Never Gonna Get It) (Official Music Video) [HD] [JIuYQ_4TcXg].mp3
+954:VH1Hits/Bob Seger - Turn The Page (1973 Radio Version) [GONmFCkCGCc].mp3
+955:VH1Hits/Eddie Money - Take Me Home Tonight⧸Be My Baby [3aJvIFK9-xk].mp3
+956:VH1Hits/Bruce Springsteen - Born to Run (Official Video) [IxuThNgl3YA].mp3
+957:VH1Hits/Urge Overkill - Girl You'll Be a Woman Soon [1fr1iyhkyVs].mp3
+958:VH1Hits/The Moody Blues - Your Wildest Dreams [kmmPFrkuPq0].mp3
+959:VH1Hits/Roxette - It Must Have Been Love (Official Music Video) [k2C5TjS2sh4].mp3
+960:VH1Hits/Berlin - No More Words [oIb9QUGjdIc].mp3
+961:VH1Hits/Smash Mouth - Walkin' On The Sun (Official Music Video) [LQj--Kjn0z8].mp3
+962:VH1Hits/Journey - Open Arms (Live 1981： Escape Tour - 2022 HD Remaster) [SIjjh_PRmU8].mp3
+963:VH1Hits/Kansas - Carry on Wayward Son (Official Video) [P5ZJui3aPoQ].mp3
+964:VH1Hits/Foo Fighters - Everlong (Official HD Video) [eBG7P-K-r1Y].mp3
+965:VH1Hits/Michael Jackson- Wanna Be Startin' Something [uY7sZnpucbY].mp3
+966:VH1Hits/Styx - Babe 1980 [uBi61pgDUP8].mp3
+967:VH1Hits/Rod Stewart - Forever Young (Official Video) [mwG6g5boyF4].mp3
+968:VH1Hits/Filter - Hey Man, Nice Shot (Official Music Video) [o9mJ82x_l-E].mp3
+969:VH1Hits/Phil Collins - Don't Lose My Number (Official Music Video) [B7Z-eUmR2bM].mp3
+970:VH1Hits/Rod Stewart - Tonight's The Night [KaHSeTR4oAw].mp3
+971:VH1Hits/Chicago - Hard Habit To Break [QHD] [Gtel4PdX6Tc].mp3
+972:VH1Hits/Shawn Colvin - Sunny Came Home [qfKKBDFCiIA].mp3
+973:VH1Hits/Survivor - I Can't Hold Back (Video) [GaMcsKtBDwE].mp3
+974:VH1Hits/38 Special - Second Chance [cRkaPdfjzEk].mp3
+975:VH1Hits/Whitney Houston - Saving All My Love For You (Official HD Video) [ewxmv2tyeRs].mp3
+976:VH1Hits/Alannah Myles - Black Velvet [tT4d1LQy4es].mp3
+977:VH1Hits/Whitney Houston - I'm Every Woman (Official Video) [H7_sqdkaAfo].mp3
+978:VH1Hits/Red Hot Chili Peppers - Warped [Official Music Video] [xmyuJZH3RAc].mp3
+979:VH1Hits/Dead Or Alive - Brand New Lover (Official Video) [ZWbj64Rwfvc].mp3
+980:VH1Hits/C+C Music Factory - Things That Make You Go Hmmmm.... (Video Version) ft. Freedom Williams [XF2ayWcJfxo].mp3
+981:VH1Hits/Suzanne Vega - Luka [VZt7J0iaUD0].mp3
+982:VH1Hits/The Who - Magic Bus (Isle Of Wight Festival 1970) [BJiirorCMcs].mp3
+983:VH1Hits/Aerosmith - I Don't Want to Miss a Thing (Official HD Video) [JkK8g6FMEXE].mp3
+984:VH1Hits/Exposé - As Long As I Can Dream [7Pg9LMjayBM].mp3
+985:VH1Hits/Nu Shooz - I Can't Wait (Official Music Video) [UJ1tBVtYOBc].mp3
+986:VH1Hits/＂Weird Al＂ Yankovic - I Lost On Jeopardy [BvUZijEuNDQ].mp3
+987:VH1Hits/Modern Talking - Cheri Cheri Lady (Official Music Video) [eNvUS-6PTbs].mp3
+988:VH1Hits/The Go-Go's - Vacation [2RHTiXvELNg].mp3
+989:VH1Hits/Sheena Easton - Almost Over You - Official Music Video [5-NAybplCXo].mp3
+990:VH1Hits/Nick Cave & The Bad Seeds - Do You Love Me？ [VJTjsVSzQ1Q].mp3
+991:VH1Hits/Depeche Mode - Enjoy The Silence (Official Video) [aGSKrC7dGcY].mp3
+992:VH1Hits/Devo - Whip It (Official Music Video) ｜ Warner Vault [j_QLzthSkfM].mp3
+993:VH1Hits/Gloria Estefan - 1-2-3 [T4IWlFutwXo].mp3
+994:VH1Hits/Samantha Fox - I Only Wanna Be With You (Version 2) [EYFXLL09_9w].mp3
+995:VH1Hits/The Rolling Stones - Respectable - OFFICIAL PROMO [ptDz5BwAgXQ].mp3
+996:VH1Hits/Metallica： Whiplash (Chicago, IL - August 12, 1983) [fEMTKRKA4mM].mp3
+997:VH1Hits/Mr. Mister - Is It Love [nWxxRlVNM30].mp3
+998:VH1Hits/Shawn Mullins - Lullaby [hG9C0VwruXE].mp3
+999:VH1Hits/Counting Crows - A Long December (Official Video) [1D5PtyrewSs].mp3
+1000:VH1Hits/Journey - Lights (Official Video - 1978) [tNG62fULYgI].mp3
+1001:VH1Hits/Michael Jackson - Smooth Criminal (Official Video - Shortened Version) [sFvENQBc-F8].mp3
+1002:VH1Hits/Madonna - Open Your Heart (Official Video) [HD] [snsTmi9N9Gs].mp3
+1003:VH1Hits/Whitney Houston - Where Do Broken Hearts Go (Official Video) [wa3tfVjGCQ8].mp3
+1004:VH1Hits/Jewel - You Were Meant For Me Official Music Video [fGj77BrEgj4].mp3
+1005:VH1Hits/The Manhattans - Kiss and Say Goodbye [wtjro7_R3-4].mp3
+1006:VH1Hits/Whitesnake - Here I Go Again '87 (Official Music Video) [WyF8RHM1OCg].mp3
+1007:VH1Hits/George Michael - Careless Whisper (Official HD Video) [QwMK8JVWkBE].mp3
+1008:VH1Hits/Phil Collins - I Wish It Would Rain Down (Official Music Video) [YcY3FH208l8].mp3
+1009:VH1Hits/Paula Abdul   Rush,rush- [LNPb931HqeM].mp3
+1010:VH1Hits/ZZ Top - Velcro Fly (Official Music Video) [F89McWFENTs].mp3
+1011:VH1Hits/Nirvana - Smells Like Teen Spirit (Official Music Video) [hTWKbfoikeg].mp3
+1012:VH1Hits/The Verve Pipe - The Freshmen (Official Video) [1umEXpGHc0E].mp3
+1013:VH1Hits/Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED] [dRHetRTOD1Q].mp3
+1014:VH1Hits/A Flock Of Seagulls - Space Age Love Song (Official Music Video) [gOK3rqVgN2I].mp3
+1015:VH1Hits/Bruce Springsteen - Dancing In the Dark (Official Video) [129kuDCQtHs].mp3
+1016:VH1Hits/Michael Jackson - Billie Jean (Official Video) [Zi_XLOBDo_Y].mp3
+1017:VH1Hits/Van Halen - Runnin' With The Devil (Official Music Video) [i5txwFv-zYM].mp3
+1018:VH1Hits/Sade - The Sweetest Taboo - Official - 1985 [kcPc18SG6uA].mp3
+1019:VH1Hits/Dionne Warwick - That's What Friends Are For [HyTpu6BmE88].mp3
+1020:VH1Hits/Poison - Every Rose Has Its Thorn (Official Music Video) [j2r2nDhTzO4].mp3
+1021:VH1Hits/Black Box - Strike It Up (Official Video) [Xo3kp5BLF6Q].mp3
+1022:VH1Hits/Sheryl Crow - Everyday Is A Winding Road (Official Music Video) [khrx-zrG460].mp3
+1023:VH1Hits/Sister Hazel - All For You [f46ulX6uwGc].mp3
+1024:VH1Hits/Cliff Richard - My Pretty One (Official Video) [lyJWokE0LmE].mp3
+1025:VH1Hits/Madonna - Like A Virgin (Official Video) [s__rX_WL100].mp3
+1026:VH1Hits/Toad The Wet Sprocket - All I Want [AVYYpNaSs2Y].mp3
+1027:VH1Hits/YES - Owner of a Lonely Heart (Official Music Video) [SVOuYquXuuc].mp3
+1028:VH1Hits/Kate Bush - Babooshka - Official Music Video [6xckBwPdo1c].mp3
+1029:VH1Hits/George Michael - Faith (Official Video) [6Cs3Pvmmv0E].mp3
+1030:VH1Hits/Foreigner - Urgent (Official Music Video) [Lcb-Fsx_phM].mp3
+1031:VH1Hits/Whitney Houston - I Will Always Love You (Official 4K Video) [3JWTaaS7LdU].mp3
+1032:VH1Hits/Frankenstein . Edgar Winters Group . 1973 [P8f-Qb-bwlU].mp3
+1033:VH1Hits/Weezer - Say It Ain't So (Official Video) [ENXvZ9YRjbo].mp3
+1034:VH1Hits/Primal Scream, Kate Moss - Some Velvet Morning (Official Video) [iR7l__Florc].mp3
+1035:VH1Hits/Elton John - Rocket Man (Royal Festival Hall, London 1972) [r_QZe8Z66x8].mp3
+1036:VH1Hits/Bryan Adams - Run To You [nCBASt507WA].mp3
+1037:VH1Hits/Irene Cara - Why Me (Official Music Video) [tRcrLjX7ygo].mp3
+1038:VH1Hits/Rob Zombie - Dragula [EqQuihD0hoI].mp3
+1039:VH1Hits/Pretenders - Brass In Pocket (Official Music Video) [0H6re3PCP3E].mp3
+1040:VH1Hits/Sting - Fortress Around Your Heart (Option Two) [OiPiRKbNCWY].mp3
+1041:VH1Hits/The Go-Go's - Turn To You [gc-WHZ0AH50].mp3
+1042:VH1Hits/George Harrison - Got My Mind Set On You (Version II) [_71w4UA2Oxo].mp3
+1043:VH1Hits/A Flock Of Seagulls - The More You Live, The More You Love [TROOtt-68F4].mp3
+1044:VH1Hits/OZZY OSBOURNE - ＂No More Tears＂ (Official Video) [CprfjfN5PRs].mp3
+1045:VH1Hits/David Lee Roth - Just A Gigolo ⧸ I Ain't Got Nobody (1985) (Music Video - MTV Version) [BUsWiIN-LfE].mp3
+1046:VH1Hits/The Cure - In Between Days [scif2vfg1ug].mp3
+1047:VH1Hits/Corey Hart - Sunglasses At Night (Official Music Video) [56HSPQHSqEE].mp3
+1048:VH1Hits/Love Touch - Rod Stewart [GIp5wDBm7LU].mp3
+1049:VH1Hits/Alanis Morissette - Hand In My Pocket (Official 4K Music Video) [CUjIY_XxF1g].mp3
+1050:VH1Hits/R.E.M. - Man On The Moon (Official Music Video) [dLxpNiF0YKs].mp3
+1051:VH1Hits/The Kinks - Come Dancing [xRUE0aAI5o8].mp3
+1052:VH1Hits/Tiffany - All This Time [GwOBqHszJLk].mp3
+1053:VH1Hits/Journey - Separate Ways (Worlds Apart) (Official Video - 1983) [LatorN4P9aA].mp3
+1054:VH1Hits/Sheryl Crow - If It Makes You Happy (Official Music Video) [dyihQtBes1I].mp3
+1055:VH1Hits/Michael Jackson - Beat It (Official 4K Video) [oRdxUFDoQe0].mp3
+1056:VH1Hits/Alice Cooper - Poison [Qq4j1LtCdww].mp3
+1057:VH1Hits/Jamiroquai - Virtual Insanity (Official Video) [4JkIs37a2JE].mp3
+1058:VH1Hits/Exposé - Point Of No Return [2v8YragSIuI].mp3
+1059:VH1Hits/Scandal, Patty Smyth - Goodbye To You [_50-gOeBilc].mp3
+1060:VH1Hits/Bruce Springsteen - I'm On Fire (Official Video) [lrpXArn3hII].mp3
+1061:VH1Hits/Whitney Houston - I Have Nothing (Official HD Video) [FxYw0XPEoKE].mp3
+1062:VH1Hits/Green Day - When I Come Around [Official Music Video] [i8dh9gDzmz8].mp3
+1063:VH1Hits/Green Day - Good Riddance (Time Of Your Life) [Official Music Video] [CnQ8N1KacJc].mp3
+1064:VH1Hits/Modern Talking - Brother Louie (Video) [Lp2qcCrdBLA].mp3
+1065:VH1Hits/Gonna Make You Sweat (Everybody Dance Now) (Official HD Video) [LaTGrV58wec].mp3
+1066:VH1Hits/Kool & The Gang - Misled (Official Music Video) [1O8jsxj9Dqo].mp3
+1067:VH1Hits/Salt-N-Pepa - Push It (Official Music Video) [vCadcBR95oU].mp3
+1068:VH1Hits/Marvin Gaye - Sexual Healing (Official HD Video) [rjlSiASsUIs].mp3
+1069:VH1Hits/Kajagoogoo - Too Shy (Official Music Video) [rkpG4XApJ28].mp3
+1070:VH1Hits/a-ha - Take On Me (Official Video) [Remastered in 4K] [djV11Xbc914].mp3
+1071:VH1Hits/Blues Traveler - Run-Around (Official Music Video) [ousaiByU1ko].mp3
+1072:VH1Hits/Grand Funk Railroad  --  We're An American Band  --  live 1974 [jL4rXHt0_GI].mp3
+1073:VH1Hits/Duran Duran - The Reflex (Official Music Video) [J5ebkj9x5Ko].mp3
+1074:VH1Hits/Tiffany - I Think We're Alone Now (Official Music Video) [w6Q3mHyzn78].mp3
+1075:VH1Hits/Shannon - Let The Music Play (Official Music Video) [_-0sUuGufmw].mp3
+1076:VH1Hits/The Cars - Drive (Official Music Video) [xuZA6qiJVfU].mp3
+1077:VH1Hits/Jennifer Rush - Destiny (ZDF Tele-Illustrierte 16.09.1985) (VOD) [WXS0YMbUzo4].mp3
+1078:VH1Hits/Phil Collins - True Colors (Official Music Video) [2FMtxACKlYM].mp3
+1079:VH1Hits/Taylor Dayne - Tell It to My Heart [Ud6sU3AclT4].mp3
+1080:VH1Hits/Toni Braxton - Un-Break My Heart (Official HD Video) [p2Rch6WvPJE].mp3
+1081:VH1Hits/Sting - Englishman In New York [d27gTrPPAyk].mp3
+1082:VH1Hits/Taylor Dayne - Love Will Lead You Back (Official HD Video) [MO6xhLtfwW0].mp3
+1083:VH1Hits/The Rolling Stones - She's So Cold - OFFICIAL PROMO [jo34VhfcetU].mp3
+1084:VH1Hits/The Cars - Moving In Stereo LIVE In Houston 1984 (BEST QUALITY ON YOUTUBE) [loFQ6W4foJc].mp3
+1085:VH1Hits/Cyndi Lauper - A Night To Remember [6ZrSV99EKWU].mp3
+1086:VH1Hits/Guns N' Roses - Patience [ErvgV4P6Fzc].mp3
+1087:VH1Hits/Ice Cube - It Was A Good Day (Official Music Video) [h4UqMyldS7Q].mp3
+1088:VH1Hits/Real McCoy - Another Night (Videoclip) [Pav2f4b-1ZE].mp3
+1089:VH1Hits/Eurythmics, Annie Lennox, Dave Stewart - Here Comes The Rain Again (Remastered) [TzFnYcIqj6I].mp3
+1090:VH1Hits/Blondie - Rapture (Official Music Video) [pHCdS7O248g].mp3
+1091:VH1Hits/Faith No More - Epic (Official Music Video) [ZG_k5CSYKhg].mp3
+1092:VH1Hits/The Police - Every Little Thing She Does Is Magic [aENX1Sf3fgQ].mp3
+1093:VH1Hits/Jewel - Who Will Save Your Soul (Official Music Video) [0wBDDAZkNtk].mp3
+1094:VH1Hits/Def Leppard - Foolin' [9SnxBvH-0Mc].mp3
+1095:VH1Hits/David Lee Roth - Goin' Crazy! HD [tmCU_QtSzWI].mp3
+1096:VH1Hits/INXS - Never Tear Us Apart (Official Music Video) [AIBv2GEnXlc].mp3
+1097:VH1Hits/Madonna - Ray Of Light (Official Video) [x3ov9USxVxY].mp3
+1098:VH1Hits/King's X - Over My Head (Official Video) [J2SYPzKzD94].mp3
+1099:VH1Hits/a-ha - The Sun Always Shines on T.V. (Official Video) [a3ir9HC9vYg].mp3
+1100:VH1Hits/Fleetwood Mac - Seven Wonders (Official Music Video) [9b4F_ppjnKU].mp3
+1101:VH1Hits/The Cars - You Might Think (Official Music Video) [3dOx510kyOs].mp3
+1102:VH1Hits/Prince & The Revolution - When Doves Cry (Extended Version) (Official Music Video) [IUc0R8bbWQE].mp3
+1103:VH1Hits/The Power Station - Some Like It Hot [Hw1t7OCESUw].mp3
+1104:VH1Hits/Bananarama - I Heard A Rumour (Official Video) [m-DZQ80vEVI].mp3
+1105:VH1Hits/Queen - Another One Bites the Dust (Official Video) [rY0WxgSXdEE].mp3
+1106:VH1Hits/Bobby Brown - Every Little Step (Official Music Video) [P0FKzPfsxA4].mp3
+1107:VH1Hits/Queen - Another One Bites The Dust (Official Video) [eqyUAtzS_6M].mp3
+1108:VH1Hits/En Vogue - Free Your Mind (Official Music Video) [HD] [i7iQbBbMAFE].mp3
+1109:VH1Hits/Scorpions - Wind Of Change (Official Music Video) [n4RjJKxsamQ].mp3
+1110:VH1Hits/Daryl Hall & John Oates - Maneater (Official Video) [yRYFKcMa_Ek].mp3
+1111:VH1Hits/LL COOL J - Mama Said Knock You Out (Official Music Video) [vimZj8HW0Kg].mp3
+1112:VH1Hits/The Cars - My Best Friend's Girl (Official Live Video) [RyFo6p6LGkA].mp3
+1113:VH1Hits/The Doobie Brothers - What A Fool Believes (Official Music Video) [qKYQNtF11eg].mp3
+1114:VH1Hits/The Jam - Town Called Malice [YfpRm-p7qlY].mp3
+1115:VH1Hits/Queen - Under Pressure (Official Video) [a01QQZyl-_I].mp3
+1116:VH1Hits/Poison - Your Mama Don't Dance (Live) (Official Music Video) [aB5JRS6JOck].mp3
+1117:VH1Hits/The Bangles - Manic Monday (Official Video) [SsmVgoXDq2w].mp3
+1118:VH1Hits/Elton John - Sacrifice [NrLkTZrPZA4].mp3
+1119:VH1Hits/The Fixx - One Thing Leads To Another [JHYIGy1dyd8].mp3
+1120:VH1Hits/Edwyn Collins - A Girl Like You (Official Video) [6oqJ0JpMj6I].mp3
+1121:VH1Hits/John Mellencamp - Hurts So Good [4dOsbsuhYGQ].mp3
+1122:VH1Hits/The Pretenders - Don't Get Me Wrong -  HD [4ZxZbWmWaG4].mp3
+1123:VH1Hits/The Cure - Boys Don't Cry [9GkVhgIeGJQ].mp3
+1124:VH1Hits/Erasure - Sometimes (Official HD Video) [S1a8QABKNo0].mp3
+1125:VH1Hits/Toto - Africa (Official HD Video) [FTQbiNvZqaY].mp3
+1126:VH1Hits/The Offspring - ＂Gotta Get Away＂ [C6jz1hewTzA].mp3
+1127:VH1Hits/Cyndi Lauper - True Colors (Official HD Video) [LPn0KFlbqX8].mp3
+1128:VH1Hits/Paul Young - Everytime You Go Away (Official Video) [nfk6sCzRTbM].mp3
+1129:VH1Hits/Fleetwood Mac - Gypsy (Official Music Video) [mwgg1Pu6cNg].mp3
+1130:VH1Hits/John Mellencamp Aint Even Done With the Night [DagIivbPlCU].mp3
+1131:VH1Hits/Marcy Playground - Sex And Candy (Official Music Video) [-KT-r2vHeMM].mp3
+1132:VH1Hits/Bonnie Tyler - Holding Out For A Hero (Official HD Video) [bWcASV2sey0].mp3
+1133:VH1Hits/Van Halen - Why Can't This Be Love (1986) (Music Video) WIDESCREEN 720p [STVcNX7anGU].mp3
+1134:VH1Hits/Fastball The Way (Official Video) www.fastballtheband.com [X5jlTlUTWfQ].mp3
+1135:VH1Hits/The Cult - Love Removal Machine HD [k6PgftKbQnQ].mp3
+1136:VH1Hits/Sheryl Crow - A Change Would Do You Good (Official Music Video) [GDwLPMOzHLY].mp3
+1137:VH1Hits/Flesh for lulu - Postcards from paradise [5J3ZjxIQgFE].mp3
+1138:VH1Hits/Weezer - Buddy Holly (Official Music Video) [kemivUKb4f4].mp3
+1139:VH1Hits/The B-52's - Love Shack (Official Music Video) [9SOryJvTAGs].mp3
+1140:VH1Hits/Janet Jackson - Runaway (Official Music Video) [dMCAacKA6zg].mp3
+1141:VH1Hits/Modern Talking - Atlantis Is Calling (S.O.S. For Love) (Official Music Video) [CB57CuT4smM].mp3
+1142:VH1Hits/Mötley Crüe - Too Young To Fall In Love (Official Music Video) [d25tXdJSedE].mp3
+1143:VH1Hits/Patti LaBelle - New Attitude (Official Music Video) [QWfZ5SZZ4xE].mp3
+1144:VH1Hits/Jon Bon Jovi - Blaze Of Glory (Official Music Video) [MfmYCM4CS8o].mp3
+1145:VH1Hits/Dan Hartman - I Can Dream About You [621Nk3Ubz4A].mp3
+1146:VH1Hits/The Rolling Stones - Love Is Strong - OFFICIAL PROMO [Te6VBiRjhqA].mp3
+1147:VH1Hits/Billy Joel - The River of Dreams (Official Video) [hSq4B_zHqPM].mp3
+1148:VH1Hits/Haddaway - What Is Love [Official] [HEXWRTEbj1I].mp3
+1149:VH1Hits/The Velvet Underground - Sweet Jane (Video) [jLW8VKWvWuA].mp3
+1150:VH1Hits/Michael Bolton - How Am I Supposed To Live Without You [YFood_bTOX4].mp3
+1151:VH1Hits/George Thorogood & The Destroyers - Bad To The Bone [IyhJ69mD7xI].mp3
+1152:VH1Hits/Luther Vandross - Here and Now (Video) [0u_u4nlYmNs].mp3
+1153:VH1Hits/The Replacements - Bastards Of Young (Official Promo Video) [bK-s16P1bl0].mp3
+1154:VH1Hits/Tracy Chapman - Give Me One Reason (Official Music Video) [V6hQ9HSKlIE].mp3
+1155:VH1Hits/Van Halen - Finish What Ya Started (1988) (Music Video) WIDESCREEN 720p [TnFFFqsEY-8].mp3
+1156:VH1Hits/Aerosmith - Livin' On The Edge (Official Music Video) [7nqcL0mjMjw].mp3
+1157:VH1Hits/Ready For The World - Oh Sheila (Official Music Video) [wbL2lMn34Oo].mp3
+1158:VH1Hits/Pet Shop Boys - What Have I Done To Deserve This (Official Video) [HD REMASTERED] [Wn9E5i7l-Eg].mp3
+1159:VH1Hits/Billy Joel - My Life (Official Video) [h3JFEfdK_Ls].mp3
+1160:VH1Hits/AC⧸DC - Who Made Who (Official HD Video) [PiZHNw1MtzI].mp3
+1161:VH1Hits/Kylie Minogue - Never Too Late - Official Video [jWDNMmzvNB4].mp3
+1162:VH1Hits/Living Colour - Type [1HbF3EAt3ck].mp3
+1163:VH1Hits/Peter Gabriel - Steam [Qt87bLX7m_o].mp3
+1164:VH1Hits/Matchbox Twenty - 3AM (Official Video) [C-Naa1HXeDQ].mp3
+1165:VH1Hits/The Black Crowes - Hard To Handle [BRcs_OzQb14].mp3
+1166:VH1Hits/Edie Brickell & New Bohemians - What I Am (Official Music Video) [tDl3bdE3YQA].mp3
+1167:VH1Hits/Rod Stewart - Maggie May (1971) [KbI_awR4CKE].mp3
+1168:VH1Hits/Peter Schilling - The Different Story (World Of Lust And Crime) (Official Video) [zZ3cHxO99Cg].mp3
+1169:VH1Hits/Daryl Hall & John Oates - Out Of Touch (Official HD Video) [D00M2KZH1J0].mp3
+1170:VH1Hits/Grace Jones - I've Seen That Face Before (Libertango) [Official Video] [nIN3IE3DHqc].mp3
+1171:VH1Hits/David Bowie & Mick Jagger - Dancing In The Street (Official Video) [HasaQvHCv4w].mp3
+1172:VH1Hits/Madonna - Papa Don't Preach (Official Video) [HD] [G333Is7VPOg].mp3
+1173:VH1Hits/Love and Rockets - No New Tale To Tell. HD [iRrn67ovuRQ].mp3
+1174:VH1Hits/Madonna - Into The Groove (Official Video) [52iW3lcpK5M].mp3
+1175:VH1Hits/Judas Priest - Turbo Lover (Official Video) [JhY9GOhFwN4].mp3
+1176:VH1Hits/The Cars - Magic (Official Music Video) [E0Kv6vxZwL8].mp3
+1177:VH1Hits/Nick Kamen - I Promised Myself Full HD [2z6ssQe_bpU].mp3
+1178:VH1Hits/OMC - How Bizarre (Official Music Video) [C2cMG33mWVY].mp3
+1179:VH1Hits/Van Halen - Feels So Good (1989) (Music Video) WIDESCREEN 720p [sExavHET2c0].mp3
+1180:VH1Hits/Paul McCartney   Coming Up HQ [0d_Wv-gkHts].mp3
+1181:VH1Hits/Cock Robin - The Promise You Made [3pk3A_QSINI].mp3
+1182:VH1Hits/Chicago - Will You Still Love Me？ (Official Music Video) [d_l-st8Q1S0].mp3
+1183:VH1Hits/Cypress Hill - Insane In The Brain (Official Video) [RijB8wnJCN0].mp3
+1184:VH1Hits/Climie Fisher - Rise To The Occasion (1987).flv [DyNsVsMA-q0].mp3
+1185:VH1Hits/Riders on the Storm - The Doors HD [k9o78-f2mIM].mp3
+1186:VH1Hits/Scorpions - No One Like You (Official Video) [6VwbyBGbqPY].mp3
+1187:VH1Hits/Dexy's Midnight Runners - Come On Eileen (Live) [C3rg4psdHxw].mp3
+1188:VH1Hits/Seal  -  Kiss From A Rose (Official Music Video 720p HD) + Lyrics [AMD2TwRvuoU].mp3
+1189:VH1Hits/Lisa Lisa & Cult Jam, Full Force - I Wonder If I Take You Home (Official Music Video) [P5m8lj5DCtI].mp3
+1190:VH1Hits/Foo Fighters - Learn To Fly (Official Music Video) [1VQ_3sBZEm0].mp3
+1191:VH1Hits/ABBA - The Winner Takes It All (Video) [92cwKCU8Z5c].mp3
+1192:VH1Hits/Billy Ocean - There'll Be Sad Songs (To Make You Cry) (Official Video) [KLjpJZbxkAU].mp3
+1193:VH1Hits/Van Halen - Dance The Night Away (Official Music Video) [llfjDUB66Z4].mp3
+1194:VH1Hits/Marvin Gaye - Let's Get It On [9vAiESu5wrA].mp3
+1195:VH1Hits/Peter Gabriel - Kiss That Frog [S4Ah2dxTcWw].mp3
+1196:VH1Hits/Barclay James Harvest - Life is for Living [bxssOv-hAy4].mp3
+1197:VH1Hits/Big Country - One Great Thing (HQ) [D-IhhSfPrHc].mp3
+1198:VH1Hits/Irene Cara  - Flashdance What A Feeling (Official Music Video) [ILWSp0m9G2U].mp3
+1199:VH1Hits/Technotronic - Get Up (Before The Night Is Over) (Video) [a6xDiPubxVU].mp3
+1200:VH1Hits/Chaka Khan - I Feel for You (Official Music Video) [YW0sxgYAmLM].mp3
+1201:VH1Hits/Club Nouveau - Lean On Me (Official Music Video) [kbyjaUJWWmk].mp3
+1202:VH1Hits/Elton John - Candle In The Wind [NoOhnrjdYOc].mp3
+1203:VH1Hits/Rod Stewart Unplugged...and Seated - Have i told you lately (Performing MTV Unplugged) [-C-YqmLtVJ4].mp3
+1204:VH1Hits/Daryl Hall & John Oates - I Can't Go For That (No Can Do) (Official Video) [ccenFp_3kq8].mp3
+1205:VH1Hits/Exposé - Come Go with Me [SGi3AvfFfuA].mp3
+1206:VH1Hits/David Bowie - Let's Dance (Official Video) [VbD_kBJc_gI].mp3
+1207:VH1Hits/Hanson - MMMBop (Official Music Video) [NHozn0YXAeE].mp3
+1208:VH1Hits/Talking Heads - Once in a Lifetime (Official Video) [5IsSpAOD6K8].mp3
+1209:VH1Hits/Toto - 99 [qhw-XlTMB5I].mp3
+1210:VH1Hits/Van Halen - (Oh) Pretty Woman (Official Music Video) [FWQRDI7mTyw].mp3
+1211:VH1Hits/Metallica： Enter Sandman (Official Music Video) [CD-E-LDc384].mp3
+1212:VH1Hits/Ozzy Osbourne - Crazy Train (Speak Of The Devil) [bwDpAfFzcRQ].mp3
+1213:VH1Hits/EMF - Unbelievable (Official Music Video) HD [sfCLt0kTd5E].mp3
+1214:VH1Hits/Europe - The Final Countdown (Official Video) [9jK-NcRmVcw].mp3
+1215:VH1Hits/Wham! - The Edge of Heaven (Official Video) [cCqEyJc-wdk].mp3
+1216:VH1Hits/Queen - It's A Hard Life (Official Video) [uHP-qgzUVLM].mp3
+1217:VH1Hits/After The Fire - Der Kommissar [vBfFDTPPlaM].mp3
+1218:VH1Hits/Crystal Waters - Gypsy Woman (She's Homeless) (Official Music Video) [_KztNIg4cvE].mp3
+1219:VH1Hits/Player - Baby Come Back [Hn-enjcgV1o].mp3
+1220:VH1Hits/The Cure - Friday I'm In Love Official Music Video [sDDGMwQGkOI].mp3
+1221:VH1Hits/Beavis & Butthead ⧸ Ted Nugent - Heads Will Roll [zzRaD0puX1w].mp3
+1222:VH1Hits/Sting - If You Love Somebody Set Them Free [LSGl3d4KOMk].mp3
+1223:VH1Hits/Kiss - I Was Made For Lovin' You [ZhIsAZO5gl0].mp3
+1224:VH1Hits/Whitney Houston - I Wanna Dance With Somebody (Official 4K Video) [eH3giaIzONA].mp3
+1225:VH1Hits/Kris Kross - Jump (Official Video) [010KyIQjkTk].mp3
+1226:VH1Hits/Toto - Rosanna (Official HD Video) [qmOLtTGvsbM].mp3
+1227:VH1Hits/Supertramp - It's Raining Again [YZUE4_PtOk0].mp3
+1228:VH1Hits/gerardo - rico suave [o8_f3kJOX_8].mp3
+1229:VH1Hits/Deee-Lite - Groove Is In The Heart (Official Video) [etviGf1uWlg].mp3
+1230:VH1Hits/Bad Company-Seagull [Q-HHJVPxvqI].mp3
+1231:VH1Hits/Foreigner - Waiting For A Girl Like You (Original Video) [dUNJc22MAb8].mp3
+1232:VH1Hits/Suzanne Vega - Toms Diner (Official Music Video) [FLP6QluMlrg].mp3
+1233:VH1Hits/Digital Underground - The Humpty Dance (Official Music Video) [PBsjggc5jHM].mp3
+1234:VH1Hits/INXS - Devil Inside (Official Music Video) [hv_zJrO_ptk].mp3
+1235:VH1Hits/U2： Where The Streets Have No Name [3FsrPEUt2Dg].mp3
+1236:VH1Hits/Maxi Priest - Close To You [fSR3YgUcyU4].mp3
+1237:VH1Hits/Duran Duran - Ordinary World (Official Music Video) [FqIACCH20JU].mp3
+1238:VH1Hits/The Police - Roxanne [3T1c7GkzRQQ].mp3
+1239:VH1Hits/Roxy Music - Jealous Guy [hRzGzRqNj58].mp3
+1240:VH1Hits/Bon Jovi - Always (Official Music Video) [9BMwcO6_hyA].mp3
+1241:VH1Hits/ABBA - Take A Chance On Me (Official Music Video) [-crgQGdpZR0].mp3
+1242:VH1Hits/The Smiths - How Soon Is Now？ (Official Music Video) [hnpILIIo9ek].mp3
+1243:VH1Hits/Gazebo   --  Lunatic  [[ Official   Video ]]  HD [d93ogcokpa4].mp3
+1244:VH1Hits/The Cars - Double Life [Nzj5UBGG0gc].mp3
+1245:VH1Hits/Janet Jackson - What Have You Done For Me Lately (Official Music Video) [r9uizdKZAGE].mp3
+1246:VH1Hits/Dennis Edwards ft. Siedah Garrett - Don't Look Any Further (Official Video) [CH3rx8LhrQo].mp3
+1247:VH1Hits/Roxy Music - More Than This [kOnde5c7OG8].mp3
+1248:VH1Hits/Rod Stewart - Oh God, I Wish I Was Home Tonight (Official Video) [0kMA8hwvot8].mp3
+1249:VH1Hits/Pebbles - Mercedes Boy [lQS0t5Hdc6M].mp3
+1250:VH1Hits/Elton John - Healing Hands [ImP5gvqFrnA].mp3
+1251:VH1Hits/Young MC - Bust A Move [xy4FXhkm6Nw].mp3
+1252:VH1Hits/SNAP! - The Power (Official Video) [nm6DO_7px1I].mp3
+1253:VH1Hits/Animotion - Obsession [hIs5StN8J-0].mp3
+1254:VH1Hits/Stevie Nicks - Talk To Me (Official Music Video) [UQl62w71Ets].mp3
+1255:VH1Hits/Hootie & The Blowfish - Hold My Hand (Official Music Video) [xoW3bqnr7tw].mp3
+1256:VH1Hits/Elton John - Believe [ABSXJiYQFuI].mp3
+1257:VH1Hits/Daryl Hall & John Oates - One On One (Official HD Video) [EXU2tnKEwwo].mp3
+1258:VH1Hits/38 Special - Hold On Loosely (Live) [vJtf7R_oVaw].mp3
+1259:VH1Hits/Steve Winwood - Roll With It [u_vkKozA8OI].mp3
+1260:VH1Hits/The Traveling Wilburys - Handle With Care (Official Video) [1o4s1KVJaVA].mp3
+1261:VH1Hits/Bette Midler - From A Distance (Official Music Video) [lN4AcFzxtdE].mp3
+1262:VH1Hits/Jim Croce Time In A Bottle Official Video [i6rLH-X5fR8].mp3
+1263:VH1Hits/Billy Ocean - Loverboy (Official Video) [CmhjXEkI5Lg].mp3
+1264:VH1Hits/＂Weird Al＂ Yankovic - Like A Surgeon [notKtAgfwDA].mp3
+1265:VH1Hits/Huey Lewis & The News - The Power Of Love (Official Video) [wBl2QGAIx1s].mp3
+1266:VH1Hits/George Thorogood - Reelin And Rockin - 12⧸18⧸1981 - Hampton Coliseum (Official) [Qrtuo57bbBg].mp3
+1267:VH1Hits/Saxon - Midnight Rider 1981 [Bc8DVN8pegg].mp3
+1268:VH1Hits/Peter Gabriel - In Your Eyes [kU8OJAOMbPg].mp3
+1269:VH1Hits/Night Ranger - Sister Christian (Official Music Video) [z92bmlcmyq0].mp3
+1270:VH1Hits/Alice In Chains - Angry Chair (Official HD Video) [IpEXM1Yziws].mp3
+1271:VH1Hits/Tom Petty And The Heartbreakers - American Girl (Live) [wn35LMzM8ro].mp3
+1272:VH1Hits/AC⧸DC - Highway to Hell (Live at Donington, 8⧸17⧸91) [oLBfdyJ3cpw].mp3
+1273:VH1Hits/Milli Vanilli - Girl I'm Gonna Miss You (Videoclip) [ZbUENJ5FjBk].mp3
+1274:VH1Hits/Deep Purple - Highway Star 1972 Video HQ [UAKCR7kQMTQ].mp3
+1275:VH1Hits/Queen & Annie Lennox  & David Bowie - Under Pressure - HD [fCP2-Bfhy04].mp3
+1276:VH1Hits/Men At Work - Overkill (Video Version) [RY7S6EgSlCI].mp3
+1277:VH1Hits/Belinda Carlisle - Mad About You [XmdtJWmR9zQ].mp3
+1278:VH1Hits/Klymaxx - I Miss You [gvlhHJNppQg].mp3
+1279:VH1Hits/Bruce Springsteen & The E Street Band - Born to Run (Live in New York City) [jj9ObfkHY7c].mp3
+1280:VH1Hits/Boyz II Men - End Of The Road [zDKO6XYXioc].mp3
+1281:VH1Hits/ZZ Top - Legs (Official Music Video) [eUDcTLaWJuo].mp3
+1282:VH1Hits/Bobby Brown - My Prerogative [5cDLZqe735k].mp3
+1283:VH1Hits/SAMANTHA SANG ~ ＂EMOTION＂ (with The Bee Gees) highest def. audio⧸video~ 1977 [zPwpVJ-eIgg].mp3
+1284:VH1Hits/The Outfield - Your Love (Official HD Video) [4N1iwQxiHrs].mp3
+1285:VH1Hits/Aerosmith - The Other Side [zkGfPrst29Y].mp3
+1286:VH1Hits/The Cranberries - Dreams [Yam5uK6e-bQ].mp3
+1287:VH1Hits/Prince & The New Power Generation - Diamonds And Pearls (Official Music Video) [hwUKR_9Xdns].mp3
+1288:VH1Hits/Bon Jovi - I'll Be There For You [mh8MIp2FOhc].mp3
+1289:VH1Hits/UB40 CAN'T HELP FALLING IN LOVE [Ajp0Uaw4rqo].mp3
+1290:VH1Hits/Sting - If I Ever Lose My Faith In You [7km4EHgkQiw].mp3
+1291:VH1Hits/Dead Or Alive - You Spin Me Round (Like a Record) (Official Video) [PGNiXGX2nLU].mp3
+1292:VH1Hits/Sam Brown - Stop [muDZD3wgoHI].mp3
+1293:VH1Hits/She's Gone (1976) - Hall & Oates [bnVXIUyshng].mp3
+1294:VH1Hits/The Bangles - Eternal Flame (Official Video) [PSoOFn3wQV4].mp3
+1295:VH1Hits/The Clash - Rock the Casbah (Official Video) [bJ9r8LMU9bQ].mp3
+1296:VH1Hits/Kylie Minogue - I Should Be So Lucky - Official Video [3_TvpBwSZDM].mp3
+1297:VH1Hits/Billy Joel - All About Soul (Official Video) [YSvomXlbTUM].mp3
+1298:VH1Hits/Dave Matthews Band - What Would You Say [7gXuYFih6Y8].mp3
+1299:VH1Hits/Sade - Smooth Operator - Official - 1984 [4TYv2PhG89A].mp3
+1300:VH1Hits/Steve Miller Band - The Joker [dV3AziKTBUo].mp3
+1301:VH1Hits/(Everything I Do) I Do It For You (Official Music Video) [Y0pdQU87dc8].mp3
+1302:VH1Hits/The Jacksons - Torture (Official Video) [DxSfQeCoFUM].mp3
+1303:VH1Hits/Montell Jordan - This Is How We Do It (Official Music Video) [0hiUuL5uTKc].mp3
+1304:VH1Hits/Aerosmith - Cryin' (Official Music Video) [qfNmyxV2Ncw].mp3
+1305:VH1Hits/We're So Close - Carly Simon [sD5K5XqaJME].mp3
+1306:VH1Hits/Van Halen - Panama (Official Music Video) [fuKDBPw8wQA].mp3
+1307:VH1Hits/Billy Joel - Piano Man (Official HD Video) [gxEPV4kolz0].mp3
+1308:VH1Hits/Daryl Hall & John Oates - Rich Girl • TopPop [MJsloJmMbis].mp3
+1309:VH1Hits/The Specials - Rat Race (Official Music Video) [AmkMEoVb6rA].mp3
+1310:VH1Hits/Queen - The Miracle (Official Video Remastered) [2DaY8-Mui0I].mp3
+1311:VH1Hits/Foreigner - Hot Blooded (Official Live Video) [8yDmeYxTeC0].mp3
+1312:VH1Hits/Gerry Rafferty - Right Down the Line [NSfOB8ANdWU].mp3
+1313:VH1Hits/The Pretenders   Tattooed Love Boys [HjXnhT3jXM4].mp3
+1314:VH1Hits/Electric Light Orchestra - Don't Bring Me Down (Official Video) [z9nkzaOPP6g].mp3
+1315:VH1Hits/10cc - I'm Not In Love [STugQ0X1NoI].mp3
+1316:VH1Hits/lionel richie-say you say me [we0mk_J0zyc].mp3
+1317:VH1Hits/Bryan Adams - Cuts Like A Knife [6VZhSkREYBc].mp3
+1318:VH1Hits/Radiohead - Fake Plastic Trees [n5h0qHwNrHk].mp3
+1319:VH1Hits/Lionel Richie： Say You, Say Me [zu8Llm-Afrw].mp3
+1320:VH1Hits/Rick Springfield - Jessie's Girl (Official Video) [qYkbTyHXwbs].mp3
+1321:VH1Hits/Princess - Say I'm Your Number One (Official HD Video) [u0hbnqKdPZw].mp3
+1322:VH1Hits/Gloria Estefan, Miami Sound Machine - Conga [54ItEmCnP80].mp3
+1323:VH1Hits/Billy Joel - Allentown (Official Video) [BHnJp0oyOxs].mp3
+1324:VH1Hits/38 Special - Wild-Eyed Southern Boys [ZCq4EkzLlQM].mp3
+1325:VH1Hits/＂Weird Al＂ Yankovic - Fat [t2mU6USTBRE].mp3
+1326:VH1Hits/Don't Let's Start - They Might Be Giants [VJQnZZ-Wmao].mp3
+1327:VH1Hits/Abba - Thank You For The Music [0dcbw4IEY5w].mp3
+1328:VH1Hits/The Go-Go's - Our Lips Are Sealed [r3kQlzOi27M].mp3
+1329:VH1Hits/Local H - Bound For The Floor [E2Oe5YKhzCE].mp3
+1330:VH1Hits/Guns N' Roses - Welcome To The Jungle [o1tj2zJ2Wvg].mp3
+1331:VH1Hits/Julian Lennon - Too Late for Goodbyes [aQs1Ynq0rlk].mp3
+1332:VH1Hits/Steve Winwood - Back In The High Life Again (Official Video) [Adw772km7PQ].mp3
+1333:VH1Hits/Shakin' Stevens - Give Me Your Heart Tonight [jKnCi3H2mPc].mp3
+1334:VH1Hits/Elton John - Tiny Dancer (Live On Old Grey Whistle Test) [UroApoVbKn0].mp3
+1335:VH1Hits/Modern English - I Melt With You (Official Video) [LuN6gs0AJls].mp3
+1336:VH1Hits/Queen - The Show Must Go On (Official Video) [t99KH0TR-J4].mp3
+1337:VH1Hits/Queen - We Will Rock You (Official Video) [-tJYN-eG1zk].mp3
+1338:VH1Hits/Mariah Carey - Vision Of Love [tov22NtCMC4].mp3
+1339:VH1Hits/A Flock Of Seagulls - I Ran (So Far Away) (Video) [iIpfWORQWhU].mp3
+1340:VH1Hits/Tom Petty and the Heartbreakers - You Got Lucky [Official Music Video] [mtLpZWNyM0I].mp3
+1341:VH1Hits/Prince - I Wanna Be Your Lover (Official Music Video) [Rp8WL621uGM].mp3
+1342:VH1Hits/The Rolling Stones - Undercover Of The Night - OFFICIAL PROMO (EXPLICIT) [DVJkfXeTs9Q].mp3
+1343:VH1Hits/Tina Turner - Missing You [5qutvO52Too].mp3
+1344:VH1Hits/Tears For Fears - ＂Everybody Wants To Rule The World＂ - ORIGINAL VIDEO [ST86JM1RPl0].mp3
+1345:VH1Hits/Kim Wilde - Cambodia (1981) HD 0815007 [1y3TKv7Chk4].mp3
+1346:VH1Hits/＂Weird Al＂ Yankovic - Eat It (Official 4K Video) [ZcJjMnHoIBI].mp3
+1347:VH1Hits/Phil Collins - Take Me Home (Official Music Video) [sRY1NG1P_kw].mp3
+1348:VH1Hits/Blondie - Atomic (Official Music Video) [O_WLw_0DFQQ].mp3
+1349:VH1Hits/Tracy Chapman - Fast Car (Official Music Video) [AIOAlaACuv4].mp3
+1350:VH1Hits/All-4-One - So Much In Love [yML4pkBj93Q].mp3
+1351:VH1Hits/Amii Stewart - Knock On Wood (Official Video) [XKuJUxGntRI].mp3
+1352:VH1Hits/Gin Blossoms - Hey Jealousy (Official Music Video) [ah5gAkna3jI].mp3
+1353:VH1Hits/Sheena Easton - The Lover In Me [r3mSb6IGCZw].mp3
 playlist_end

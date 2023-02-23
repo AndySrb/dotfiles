@@ -197,6 +197,9 @@ export PDFVIEWER=zathura
 #alias sources='sudo nano /etc/apt/sources.list'
 #alias aptitude='sudo aptitude'
 
+# host package server
+alias hostPackages="sudo python -m http.server -d /var/cache/pacman/pkg/"
+
 
 
 alias la="ls -a"
@@ -206,8 +209,6 @@ alias ytmp3="youtube-dl -x  --write-thumbnail --audio-format  mp3"
 
 
 alias feh='feh --bg-scale'
-alias set-jpg='wallpaper-jpg'
-alias set-png='wallpaper-png'
 alias sources='sudo nano /etc/apt/sources.list'
 alias fdisk=lsblk
 alias fuck=sudo
@@ -216,12 +217,12 @@ alias umount='sudo umount'
 alias sranger='sudo cp ~/.config/ranger/rc.conf /root/.config/ranger/rc.conf && sudo ranger'
 alias pc-info=screenfetch
 alias steam-wine='wine ~/.wine/drive_c/Program\ Files\ \(x86\)/Steam/Steam.exe >/dev/null 2>&1 &'
-alias mp3=cmus
 alias pacman="sudo pacman"
 
 alias mcrun='java -jar ~/Minecraft/TLauncher.jar'
 alias reboot='./bin/restart.sh'
 alias restart='./bin/restart.sh'
+
 alias 'hamachi-start'='sudo systemctl enable logmein-hamachi && sudo systemctl restart '
 alias 'hamachi-restart'='sudo systemctl restart logmein-hamachi'
 alias 'hamachi-stop'='sudo systemctl disable logmein-hamachi'
@@ -235,6 +236,7 @@ alias Sudo='sudo !!'
 
 alias wine32="WINEPREFIX="$HOME/.prefix32" "
 alias wine64="WINEPREFIX="$HOME/.wine" "
+alias arduino-upload="arduino-cli upload -b arduino:avr:uno -p /dev/ttyUSB0"
 
 
 
